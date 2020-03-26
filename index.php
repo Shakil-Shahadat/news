@@ -125,7 +125,8 @@
 			<a href="https://www.ntvbd.com/">NTV</a>
 		</li>
 	 	<li>
-	 		<a href="http://www.somoynews.tv/">Somoy TV</a>
+	 		<a href="http://www.somoynews.tv/">Somoy TV</a> |
+	 		<a href="https://www.youtube.com/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ/videos">YT</a>
 	 	</li>
 	</ol>
 

@@ -1,0 +1,15 @@
+a
+{
+	text-decoration: none;
+}
+body
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 25px;
+	margin: auto;
+	width: 1000px;
+	column-count: 2;
+	column-rule-style: dotted;
+	column-rule-width: 1px;
+}

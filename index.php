@@ -119,7 +119,7 @@
 	 		<a href="http://www.ekushey-tv.com/">Ekushey Television</a>
 	 	</li>
 		<li>
-			<a href="http://independent24.tv/">Independent24</a>
+			<a href="http://independent24.com/">Independent24</a>
 		</li>
 		<li>
 			<a href="https://www.ntvbd.com/">NTV</a>

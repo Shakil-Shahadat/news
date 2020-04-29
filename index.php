@@ -136,7 +136,8 @@
 	 		<a href="https://www.youtube.com/user/independent24tube/videos">YT</a>
 		</li>
 		<li>
-			<a href="https://www.ntvbd.com/">NTV</a>
+			<a href="https://www.ntvbd.com/">NTV</a> |
+			<a href="https://www.ntvbd.com/video/ntv-news/shondhyar-khobor">সন্ধ্যার খবর</a>
 		</li>
 	 	<li>
 	 		<a href="http://www.somoynews.tv/">Somoy TV</a> |

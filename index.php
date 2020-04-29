@@ -62,7 +62,7 @@
 			<a href="http://bangla.bdnews24.com/tech/">টেক</a>
 		</li>
 		<li>
-			<a href="http://www.bbc.co.uk/bengali/">বিবিসি বাংলা</a>
+			<a href="https://www.bbc.com/bengali">বিবিসি বাংলা</a>
 		</li>
 		<li>
 			<a href="http://www.mzamin.com/">মানবজমিন</a>

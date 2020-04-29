@@ -20,7 +20,7 @@
 		</li>
 		<li>
 			<a href="http://www.dailyinqilab.com/">ইনকিলাব</a> |
-			<a href="http://www.einqilab.com/">ই-পেপার</a>
+			<a href="http://www.einqilab.com/">ই</a>
 		</li>
 		<li>
 			<a href="http://www.kalerkantho.com/">কালের কণ্ঠ</a> |

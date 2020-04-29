@@ -72,7 +72,7 @@
 		</li>
 		<li>
 			<a href="http://www.jugantor.com/">যুগান্তর</a> |
-			<a href="http://www.ejugantor.com/">ই-যুগান্তর</a> |
+			<a href="https://epaper.jugantor.com/">ই</a> |
 			<a href="http://www.jugantor.com/it-technology">আইটি ও প্রযুক্তি</a> |
 			<a href="http://www.jugantor.com/ten-horizon">দশ দিগন্ত</a>
 		</li>

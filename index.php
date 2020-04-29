@@ -37,11 +37,11 @@
 			<a href="http://www.dainikpurbokone.net">পূর্বকোণ</a>
 		</li>
 		<li>
-			<a href="http://www.prothom-alo.com/">প্রথম আলো</a> |
-			<a href="http://www.prothom-alo.com/tp_tech/">কম্পিউটার প্রতিদিন</a> |
-			<a href="http://www.prothom-alo.com/technology">বিজ্ঞান ও প্রযুক্তি</a> |
-			<a href="http://www.prothom-alo.com/life_style">জীবনযাপন</a> |
-			<a href="http://www.prothom-alo.com/tp_world/">সারা বিশ্ব</a>
+			<a href="https://www.prothomalo.com/">প্রথম আলো</a> |
+			<a href="https://www.prothomalo.com/tp_tech/">কম্পিউটার প্রতিদিন</a> |
+			<a href="https://www.prothomalo.com/technology">বিজ্ঞান ও প্রযুক্তি</a> |
+			<a href="https://www.prothomalo.com/life_style">জীবনযাপন</a> |
+			<a href="https://www.prothomalo.com/tp_world/">সারা বিশ্ব</a>
 		</li>
 		<li>
 			<a href="http://www.bhorerkagoj.net/new/">ভোরের কাগজ</a>

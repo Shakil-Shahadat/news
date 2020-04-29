@@ -24,7 +24,7 @@
 		</li>
 		<li>
 			<a href="http://www.kalerkantho.com/">কালের কণ্ঠ</a> |
-			<a href="http://www.ekalerkantho.com/">ই-পেপার</a> |
+			<a href="http://www.ekalerkantho.com/">ই</a> |
 			<a href="http://www.kalerkantho.com/print-edition/tech-everyday">টেক প্রতিদিন</a>
 		</li>
 		<li>

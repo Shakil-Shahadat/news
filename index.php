@@ -47,6 +47,9 @@
 			<a href="http://www.bhorerkagoj.net/new/">ভোরের কাগজ</a>
 		</li>
 		<li>
+			<a href="https://www.banglatribune.com/">বাংলা ট্রিবিউন</a>
+		</li>
+		<li>
 			<a href="http://www.bd-pratidin.com/">বাংলাদেশ প্রতিদিন</a> |
 			<a href="http://www.ebdpratidin.com/">ই</a> |
 			<a href="https://www.bd-pratidin.com/tech-world">টেক ওয়ার্ল্ড</a>

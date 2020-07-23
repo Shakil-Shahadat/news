@@ -86,7 +86,7 @@
 			<a href="http://www.shokalerkhabor.com/">সকালের খবর</a>
 		</li>
 		<li>
-			<a href="http://www.samakal.com.bd/">সমকাল</a>
+			<a href="https://samakal.com/">সমকাল</a>
 		</li>
 		<li>
 			<a href="http://www.thedailysangbad.com/">সংবাদ</a>

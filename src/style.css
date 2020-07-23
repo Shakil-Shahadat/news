@@ -14,3 +14,7 @@ a
 	text-decoration: none;
 	color: #0033FF;
 }
+a:hover
+{
+	color: Magenta;
+}

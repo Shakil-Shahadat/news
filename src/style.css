@@ -4,9 +4,9 @@ body
 	font-size: 16px;
 	line-height: 35px;
 	margin: auto;
-	column-gap: 40px;
 	width: 1600px;
 	column-count: 3;
+	column-gap: 80px;
 	column-rule: 1px dotted;
 }
 a

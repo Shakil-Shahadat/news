@@ -1,7 +1,3 @@
-a
-{
-	text-decoration: none;
-}
 body
 {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
@@ -12,4 +8,8 @@ body
 	column-count: 2;
 	column-gap: 40px;
 	column-rule: 1px dotted;
+}
+a
+{
+	text-decoration: none;
 }

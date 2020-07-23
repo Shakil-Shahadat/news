@@ -3,6 +3,7 @@
 <head>
 	<title>News</title>
 	<link rel="stylesheet" href="src/style.css">
+	<link rel="shortcut icon" href="src/favicon.ico">
 </head>
 <body>
 

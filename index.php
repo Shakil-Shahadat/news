@@ -28,9 +28,6 @@
 			<a href="http://www.kalerkantho.com/print-edition/tech-everyday">টেক প্রতিদিন</a>
 		</li>
 		<li>
-			<a href="http://www.natunbarta.com/">নতুন বার্তা</a>
-		</li>
-		<li>
 			<a href="http://www.dailynayadiganta.com/">নয়াদিগন্ত</a>
 		</li>
 		<li>
@@ -100,6 +97,9 @@
 	<ol>
 		<li>
 			<a href="http://www.amaderorthoneeti.com/">আমাদের অর্থনীতি</a>
+		</li>
+		<li>
+			<a href="http://www.natunbarta.com/">নতুন বার্তা</a>
 		</li>
 		<li>
 			<a href="http://www.sheershanews.com/">শীর্ষ নিউজ</a>

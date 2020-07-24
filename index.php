@@ -87,7 +87,7 @@
 			<a href="https://www.bhorerkagoj.com/">ভোরের কাগজ</a>
 		</li>
 		<li>
-			<a href="http://www.sheershanews.com/">শীর্ষ নিউজ</a>
+			<a href="http://www.shershanews24.com/">শীর্ষ নিউজ</a>
 		</li>
 	</ol>
 

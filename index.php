@@ -113,6 +113,9 @@
 			<a href="https://www.thedailystar.net/newspaper">Today's Paper</a> |
 			<a href="https://epaper.thedailystar.net/">e</a>
 		</li>
+		<li>
+			<a href="http://www.theindependentbd.com/">The Independent</a>
+		</li>
 	</ol>
 
 	<h3>English ( Foreign )</h3>

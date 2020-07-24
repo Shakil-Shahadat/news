@@ -43,9 +43,6 @@
 			<a href="https://www.bd-pratidin.com/tech-world">টেক ওয়ার্ল্ড</a>
 		</li>
 		<li>
-			<a href="http://www.bssnews.net/bangla/">বাংলাদেশ সংবাদ সংস্থা</a>
-		</li>
-		<li>
 			<a href="http://www.banglanews24.com/">বাংলা নিউজ টোয়েন্টিফোর</a>
 		</li>
 		<li>
@@ -94,6 +91,9 @@
 		</li>
 		<li>
 			<a href="http://www.dainikpurbokone.net">পূর্বকোণ</a>
+		</li>
+		<li>
+			<a href="http://www.bssnews.net/bangla/">বাংলাদেশ সংবাদ সংস্থা</a>
 		</li>
 		<li>
 			<a href="https://www.bhorerkagoj.com/">ভোরের কাগজ</a>

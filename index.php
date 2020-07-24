@@ -86,9 +86,6 @@
 		<li>
 			<a href="https://www.bhorerkagoj.com/">ভোরের কাগজ</a>
 		</li>
-	 	<li>
-	 		<a href="http://www.risingbd24.com/">রাইজিং বাংলাদেশ</a>
-	 	</li>
 		<li>
 			<a href="http://www.sheershanews.com/">শীর্ষ নিউজ</a>
 		</li>

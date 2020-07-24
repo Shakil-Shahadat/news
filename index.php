@@ -97,6 +97,10 @@
 		<li>
 			<a href="http://www.shongbadprotidin.com/">সংবাদ প্রতিদিন</a>
 		</li>
+	</ol>
+
+	<h3>বাংলা ( অগুরুত্বপূর্ন )</h3>
+	<ol>
 		<li>
 			<a href="http://www.sheershanews.com/">শীর্ষ নিউজ</a>
 		</li>

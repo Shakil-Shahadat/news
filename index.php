@@ -172,6 +172,11 @@
 	<h3>Newspaper Links Collection</h3>
 	<ol>
 		<li>
+			<a href="http://www.allbanglanewspapersbd.com/">
+				allbanglanewspapersbd.com
+			</a>
+		</li>
+		<li>
 			<a href="http://www.allbanglanewspaperlist24.com/">
 				allbanglanewspaperlist24.com
 			</a>

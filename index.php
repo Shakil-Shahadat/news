@@ -73,9 +73,6 @@
 			<a href="http://www.jugantor.com/it-technology">আইটি ও প্রযুক্তি</a> |
 			<a href="http://www.jugantor.com/ten-horizon">দশ দিগন্ত</a>
 		</li>
-	 	<li>
-	 		<a href="http://www.risingbd24.com/">রাইজিং বাংলাদেশ</a>
-	 	</li>
 		<li>
 			<a href="http://www.shokalerkhabor.com/">সকালের খবর</a>
 		</li>
@@ -101,6 +98,9 @@
 		<li>
 			<a href="http://www.dainikpurbokone.net">পূর্বকোণ</a>
 		</li>
+	 	<li>
+	 		<a href="http://www.risingbd24.com/">রাইজিং বাংলাদেশ</a>
+	 	</li>
 		<li>
 			<a href="http://www.sheershanews.com/">শীর্ষ নিউজ</a>
 		</li>

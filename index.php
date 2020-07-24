@@ -75,6 +75,9 @@
 			<a href="https://www.dailyinqilab.com/epaper/">ই</a>
 		</li>
 		<li>
+			<a href="http://akhonsamoy.com/">এখন সময়</a>
+		</li>
+		<li>
 			<a href="https://www.dhakatimes24.com/">ঢাকা টাইমস</a>
 		</li>
 		<li>

@@ -11,9 +11,6 @@
 	<h3>বাংলা ( গুরুত্বপূর্ন )</h3>
 	<ol>
 		<li>
-			<a href="https://www.amadershomoy.com/">আমাদের সময়</a>
-		</li>
-		<li>
 			<a href="http://www.ittefaq.com.bd/">ইত্তেফাক</a> |
 			<a href="https://www.ittefaq.com.bd/print-edition">আজকের পত্রিকা</a> |
 			<a href="http://epaper.ittefaq.com.bd/">ই</a>
@@ -91,6 +88,9 @@
 	<ol>
 		<li>
 			<a href="http://www.amaderorthoneeti.com/">আমাদের অর্থনীতি</a>
+		</li>
+		<li>
+			<a href="https://www.amadershomoy.com/">আমাদের সময়</a>
 		</li>
 		<li>
 			<a href="http://www.natunbarta.com/">নতুন বার্তা</a>

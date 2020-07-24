@@ -172,6 +172,11 @@
 	<h3>Newspaper Links Collection</h3>
 	<ol>
 		<li><a href="http://bdrob.com/">bdrob.com</a></li>
+		<li>
+			<a href="http://www.onlinenewspapers.com/banglade.htm">
+				onlinenewspapers.com
+			</a>
+		</li>
 	</ol>
 </main>
 

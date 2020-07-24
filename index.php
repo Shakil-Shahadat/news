@@ -106,7 +106,7 @@
 		</li>
 	</ol>
 
-	<h3>English</h3>
+	<h3>English ( Local )</h3>
 	<ol>
 		<li>
 			<a href="http://bdnews24.com/">BD News 24</a>

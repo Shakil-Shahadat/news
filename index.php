@@ -11,7 +11,7 @@
 	<h3>বাংলা ( গুরুত্বপূর্ন )</h3>
 	<ol>
 		<li>
-			<a href="http://www.amadershomoy2.com/">আমাদের সময়</a>
+			<a href="https://www.amadershomoy.com/">আমাদের সময়</a>
 		</li>
 		<li>
 			<a href="http://www.ittefaq.com.bd/">ইত্তেফাক</a> |

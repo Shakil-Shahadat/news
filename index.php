@@ -17,7 +17,7 @@
 		</li>
 		<li>
 			<a href="https://www.dailyinqilab.com/">ইনকিলাব</a> |
-			<a href="http://www.einqilab.com/">ই</a>
+			<a href="https://www.dailyinqilab.com/epaper/">ই</a>
 		</li>
 		<li>
 			<a href="http://www.kalerkantho.com/">কালের কণ্ঠ</a> |

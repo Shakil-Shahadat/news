@@ -112,6 +112,9 @@
 	<h3>English ( Foreign )</h3>
 	<ol>
 		<li>
+			<a href="https://www.aljazeera.com/">Al Jazeera</a>
+		</li>
+		<li>
 			<a href="https://www.reuters.com/">Reuters</a>
 		</li>
 		<li>

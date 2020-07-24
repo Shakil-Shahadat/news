@@ -21,6 +21,9 @@
 			<a href="https://www.kalerkantho.com/print-edition/tech-everyday">টেক প্রতিদিন</a>
 		</li>
 		<li>
+			<a href="https://www.dhakatimes24.com/">ঢাকা টাইমস</a>
+		</li>
+		<li>
 			<a href="https://www.dailynayadiganta.com/">নয়াদিগন্ত</a>
 		</li>
 		<li>

@@ -31,9 +31,6 @@
 			<a href="http://www.dailynayadiganta.com/">নয়াদিগন্ত</a>
 		</li>
 		<li>
-			<a href="http://www.dainikpurbokone.net">পূর্বকোণ</a>
-		</li>
-		<li>
 			<a href="https://www.prothomalo.com/">প্রথম আলো</a> |
 			<a href="https://www.prothomalo.com/tp_tech/">কম্পিউটার প্রতিদিন</a> |
 			<a href="https://www.prothomalo.com/technology">বিজ্ঞান ও প্রযুক্তি</a> |
@@ -100,6 +97,9 @@
 		</li>
 		<li>
 			<a href="http://www.natunbarta.com/">নতুন বার্তা</a>
+		</li>
+		<li>
+			<a href="http://www.dainikpurbokone.net">পূর্বকোণ</a>
 		</li>
 		<li>
 			<a href="http://www.sheershanews.com/">শীর্ষ নিউজ</a>

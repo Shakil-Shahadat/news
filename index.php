@@ -68,9 +68,6 @@
 			<a href="https://samakal.com/">সমকাল</a>
 		</li>
 		<li>
-			<a href="http://www.thedailysangbad.com/">সংবাদ</a>
-		</li>
-		<li>
 			<a href="http://www.shongbadprotidin.com/">সংবাদ প্রতিদিন</a>
 		</li>
 	</ol>

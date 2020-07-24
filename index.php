@@ -21,7 +21,7 @@
 			<a href="https://www.kalerkantho.com/print-edition/tech-everyday">টেক প্রতিদিন</a>
 		</li>
 		<li>
-			<a href="http://www.dailynayadiganta.com/">নয়াদিগন্ত</a>
+			<a href="https://www.dailynayadiganta.com/">নয়াদিগন্ত</a>
 		</li>
 		<li>
 			<a href="https://www.prothomalo.com/">প্রথম আলো</a> |

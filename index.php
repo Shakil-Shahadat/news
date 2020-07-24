@@ -122,6 +122,10 @@
 			<a href="https://www.thedailystar.net/newspaper">Today's Paper</a> |
 			<a href="https://epaper.thedailystar.net/">e</a>
 		</li>
+	</ol>
+
+	<h3>English ( Foreign )</h3>
+	<ol>
 		<li>
 			<a href="https://www.reuters.com/">Reuters</a>
 		</li>

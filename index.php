@@ -72,9 +72,6 @@
 	<h3>বাংলা ( অগুরুত্বপূর্ন )</h3>
 	<ol>
 		<li>
-			<a href="http://www.amaderorthoneeti.com/">আমাদের অর্থনীতি</a>
-		</li>
-		<li>
 			<a href="https://www.amadershomoy.com/">আমাদের সময়</a>
 		</li>
 		<li>

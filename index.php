@@ -162,6 +162,11 @@
 
 	<h3>Newspaper Links Collection</h3>
 	<ol>
+		<li>
+			<a href="http://www.allbanglanewspaperlist24.com/">
+				allbanglanewspaperlist24.com
+			</a>
+		</li>
 		<li><a href="http://bdrob.com/">bdrob.com</a></li>
 		<li>
 			<a href="http://www.onlinenewspapers.com/banglade.htm">

@@ -75,6 +75,9 @@
 			<a href="https://www.dailyinqilab.com/epaper/">ই</a>
 		</li>
 		<li>
+			<a href="https://www.deshrupantor.com/">দেশ রূপান্তর</a>
+		</li>
+		<li>
 			<a href="http://www.natunbarta.com/">নতুন বার্তা</a>
 		</li>
 		<li>

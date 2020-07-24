@@ -65,9 +65,6 @@
 			<a href="http://www.jugantor.com/ten-horizon">দশ দিগন্ত</a>
 		</li>
 		<li>
-			<a href="http://www.shokalerkhabor.com/">সকালের খবর</a>
-		</li>
-		<li>
 			<a href="https://samakal.com/">সমকাল</a>
 		</li>
 		<li>

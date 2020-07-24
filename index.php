@@ -67,9 +67,6 @@
 		<li>
 			<a href="https://samakal.com/">সমকাল</a>
 		</li>
-		<li>
-			<a href="http://www.shongbadprotidin.com/">সংবাদ প্রতিদিন</a>
-		</li>
 	</ol>
 
 	<h3>বাংলা ( অগুরুত্বপূর্ন )</h3>

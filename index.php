@@ -35,9 +35,6 @@
 			<a href="https://www.prothomalo.com/tp_world/">সারা বিশ্ব</a>
 		</li>
 		<li>
-			<a href="http://www.bhorerkagoj.net/new/">ভোরের কাগজ</a>
-		</li>
-		<li>
 			<a href="https://www.banglatribune.com/">বাংলা ট্রিবিউন</a>
 		</li>
 		<li>
@@ -97,6 +94,9 @@
 		</li>
 		<li>
 			<a href="http://www.dainikpurbokone.net">পূর্বকোণ</a>
+		</li>
+		<li>
+			<a href="https://www.bhorerkagoj.com/">ভোরের কাগজ</a>
 		</li>
 	 	<li>
 	 		<a href="http://www.risingbd24.com/">রাইজিং বাংলাদেশ</a>

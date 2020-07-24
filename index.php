@@ -17,7 +17,9 @@
 			<a href="http://www.amaderorthoneeti.com/">আমাদের অর্থনীতি</a>
 		</li>
 		<li>
-			<a href="http://www.ittefaq.com.bd/">ইত্তেফাক</a>
+			<a href="http://www.ittefaq.com.bd/">ইত্তেফাক</a> |
+			<a href="https://www.ittefaq.com.bd/print-edition">আজকের পত্রিকা</a> |
+			<a href="http://epaper.ittefaq.com.bd/">ই</a>
 		</li>
 		<li>
 			<a href="http://www.dailyinqilab.com/">ইনকিলাব</a> |

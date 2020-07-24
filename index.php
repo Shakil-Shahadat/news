@@ -115,10 +115,10 @@
 			<a href="http://www1.bssnews.net/">Bangladesh Sangbad Sangstha (BSS)</a>
 		</li>
 		<li>
-			<a href="http://www.dhakatribune.com/">Dhaka Tribune</a>
 		</li>
 		<li>
 			<a href="https://www.reuters.com/">Reuters</a>
+			<a href="https://www.dhakatribune.com/">Dhaka Tribune</a>
 		</li>
 		<li>
 			<a href="http://www.thedailystar.net/">The Daily Star</a> |

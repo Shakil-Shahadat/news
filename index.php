@@ -59,7 +59,7 @@
 			<a href="http://www.mzamin.com/">মানবজমিন</a>
 		</li>
 		<li>
-			<a href="http://www.jjdin.com/">যায় যায় দিন</a>
+			<a href="http://www.jaijaidinbd.com/">যায় যায় দিন</a>
 		</li>
 		<li>
 			<a href="http://www.jugantor.com/">যুগান্তর</a> |

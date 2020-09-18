@@ -171,8 +171,8 @@
 	<h3>TV</h3>
 	<ol>
 		<li>
-			<a href="https://www.youtube.com/channel/UC8NcXMG3A3f2aFQyGTpSNww/videos">News</a> |
 			<a href="https://www.channelionline.com/">Channel I.com</a> |
+			<a href="https://www.youtube.com/channel/UC8NcXMG3A3f2aFQyGTpSNww/videos">News YT</a> |
 			<a href="https://www.youtube.com/channel/UCLuPUjbBSIYmltR5D8Srq7A/videos">Shows</a> |
 			<a href="https://www.youtube.com/channel/UCfNBi-m7X8ntCBbban1QaYw/videos">Multimedia</a> |
 			<a href="https://www.youtube.com/user/shykhseraj/videos">Shykh Seraj</a> |

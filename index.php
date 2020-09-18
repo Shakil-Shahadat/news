@@ -179,6 +179,9 @@
 			<a href="https://www.youtube.com/channel/UCAz6rveBalVnE6qTmfQnvyQ/videos">TV</a>
 		</li>
 		<li>
+			<a href="https://www.youtube.com/c/DBCNEWSTV/videos">DBC NEWS</a>
+		</li>
+		<li>
 			<a href="http://www.ekattor.tv/">Ekattor TV</a> |
 			<a href="https://www.facebook.com/ekattor.tv">FB</a> |
 			<a href="https://www.youtube.com/user/CH71TV/videos">YT</a> |

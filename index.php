@@ -103,7 +103,6 @@
 			<a href="http://www.dainikpurbokone.net">পূর্বকোণ</a>
 		</li>
 		<li>
-			<a href="https://www.bhorerkagoj.com/">ভোরের কাগজ</a>
 			<a href="http://www.bssnews.net/bangla/">বাংলাদেশ সংবাদ সংস্থা</a>
 		</li>
 		<li>

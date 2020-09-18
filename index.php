@@ -125,6 +125,9 @@
 			<a href="https://www.dhakatribune.com/">Dhaka Tribune</a>
 		</li>
 		<li>
+			<a href="https://www.newagebd.net/">New Age</a>
+		</li>
+		<li>
 			<a href="https://thebangladeshtoday.com/">The Bangladesh Today</a>
 		</li>
 		<li>

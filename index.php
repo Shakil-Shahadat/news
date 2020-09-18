@@ -97,10 +97,10 @@
 			<a href="http://www.natunbarta.com/">নতুন বার্তা</a>
 		</li>
 		<li>
-			<a href="http://www.dainikpurbokone.net">পূর্বকোণ</a>
 		</li>
 		<li>
 			<a href="http://www.bssnews.net/bangla/">বাংলাদেশ সংবাদ সংস্থা</a>
+			<a href="http://www.dainikpurbokone.net">পূর্বকোণ</a>
 		</li>
 		<li>
 			<a href="https://www.bhorerkagoj.com/">ভোরের কাগজ</a>

@@ -53,6 +53,9 @@
 			<a href="https://www.bbc.com/bengali">বিবিসি বাংলা</a>
 		</li>
 		<li>
+			<a href="https://www.bhorerkagoj.com/">ভোরের কাগজ</a>
+		</li>
+		<li>
 			<a href="http://www.mzamin.com/">মানবজমিন</a>
 		</li>
 		<li>

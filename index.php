@@ -11,6 +11,9 @@
 	<h3>বাংলা ( গুরুত্বপূর্ন )</h3>
 	<ol>
 		<li>
+			<a href="https://amardesh.co.uk/">আমার দেশ</a>
+		</li>
+		<li>
 			<a href="http://www.ittefaq.com.bd/">ইত্তেফাক</a> |
 			<a href="https://www.ittefaq.com.bd/print-edition">আজকের পত্রিকা</a> |
 			<a href="http://epaper.ittefaq.com.bd/">ই</a>

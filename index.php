@@ -155,6 +155,9 @@
 			<a href="https://www.forbes.com/">Forbes</a>
 		</li>
 		<li>
+			<a href="https://foreignpolicy.com/">Foreign Policy</a>
+		</li>
+		<li>
 			<a href="https://www.reuters.com/">Reuters</a>
 		</li>
 		<li>

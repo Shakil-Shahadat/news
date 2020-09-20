@@ -28,6 +28,7 @@
 		</li>
 		<li>
 			<a href="https://www.prothomalo.com/">প্রথম আলো</a> |
+			<a href="https://www.youtube.com/c/ProthomAlo/videos">YT</a> |
 			<a href="https://www.prothomalo.com/tp_tech/">কম্পিউটার প্রতিদিন</a> |
 			<a href="https://www.prothomalo.com/technology">বিজ্ঞান ও প্রযুক্তি</a> |
 			<a href="https://www.prothomalo.com/life_style">জীবনযাপন</a> |

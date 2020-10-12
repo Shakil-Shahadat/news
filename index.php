@@ -47,7 +47,7 @@
 			<a href="http://www.banglanews24.com/">বাংলা নিউজ টোয়েন্টিফোর</a>
 		</li>
 		<li>
-			<a href="http://bangla.bdnews24.com/">বিডি নিউজ টুয়েন্টিফোর</a> |
+			<a href="https://bangla.bdnews24.com/">বিডি নিউজ টুয়েন্টিফোর</a> |
 			<a href="http://bangla.bdnews24.com/tech/">টেক</a>
 		</li>
 		<li>

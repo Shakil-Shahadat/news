@@ -65,7 +65,7 @@
 		<li>
 			<a href="http://www.jugantor.com/">যুগান্তর</a> |
 			<a href="https://epaper.jugantor.com/">ই</a> |
-			<a href="http://www.jugantor.com/it-technology">আইটি ও প্রযুক্তি</a> |
+			<a href="https://www.jugantor.com/todays-paper/it-world">আইটি বিশ্ব</a> |
 			<a href="https://www.jugantor.com/todays-paper/ten-horizon">দশ দিগন্ত</a>
 		</li>
 		<li>

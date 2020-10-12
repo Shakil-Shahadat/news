@@ -48,7 +48,7 @@
 		</li>
 		<li>
 			<a href="https://bangla.bdnews24.com/">বিডি নিউজ টুয়েন্টিফোর</a> |
-			<a href="http://bangla.bdnews24.com/tech/">টেক</a>
+			<a href="https://bangla.bdnews24.com/tech/">টেক</a>
 		</li>
 		<li>
 			<a href="https://www.bbc.com/bengali">বিবিসি বাংলা</a>

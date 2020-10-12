@@ -117,7 +117,7 @@
 	<h3>English ( Local )</h3>
 	<ol>
 		<li>
-			<a href="http://bdnews24.com/">BD News 24</a>
+			<a href="https://bdnews24.com/">BD News 24</a>
 		</li>
 		<li>
 			<a href="http://www1.bssnews.net/">Bangladesh Sangbad Sangstha (BSS)</a>

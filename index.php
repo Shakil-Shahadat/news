@@ -16,7 +16,7 @@
 		<li>
 			<a href="http://www.ittefaq.com.bd/">ইত্তেফাক</a> |
 			<a href="https://www.ittefaq.com.bd/print-edition">আজকের পত্রিকা</a> |
-			<a href="http://epaper.ittefaq.com.bd/">ই</a>
+			<a href="https://epaper.ittefaq.com.bd/">ই</a>
 		</li>
 		<li>
 			<a href="https://www.kalerkantho.com/">কালের কণ্ঠ</a> |

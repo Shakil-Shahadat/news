@@ -57,7 +57,7 @@
 			<a href="https://www.bhorerkagoj.com/">ভোরের কাগজ</a>
 		</li>
 		<li>
-			<a href="http://www.mzamin.com/">মানবজমিন</a>
+			<a href="https://mzamin.com/">মানবজমিন</a>
 		</li>
 		<li>
 			<a href="http://www.jaijaidinbd.com/">যায় যায় দিন</a>

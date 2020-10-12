@@ -44,7 +44,7 @@
 			<a href="https://www.bd-pratidin.com/tech-world">টেক ওয়ার্ল্ড</a>
 		</li>
 		<li>
-			<a href="http://www.banglanews24.com/">বাংলা নিউজ টোয়েন্টিফোর</a>
+			<a href="https://www.banglanews24.com/">বাংলা নিউজ টোয়েন্টিফোর</a>
 		</li>
 		<li>
 			<a href="https://bangla.bdnews24.com/">বিডি নিউজ টুয়েন্টিফোর</a> |

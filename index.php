@@ -63,7 +63,7 @@
 			<a href="http://www.jaijaidinbd.com/">যায় যায় দিন</a>
 		</li>
 		<li>
-			<a href="http://www.jugantor.com/">যুগান্তর</a> |
+			<a href="https://www.jugantor.com/">যুগান্তর</a> |
 			<a href="https://epaper.jugantor.com/">ই</a> |
 			<a href="https://www.jugantor.com/todays-paper/it-world">আইটি বিশ্ব</a> |
 			<a href="https://www.jugantor.com/todays-paper/ten-horizon">দশ দিগন্ত</a>

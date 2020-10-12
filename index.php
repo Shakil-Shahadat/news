@@ -132,7 +132,8 @@
 			<a href="https://thebangladeshtoday.com/">The Bangladesh Today</a>
 		</li>
 		<li>
-			<a href="https://tbsnews.net/">The Business Standard</a>
+			<a href="https://tbsnews.net/">The Business Standard</a> |
+			<a href="https://tbsnews.net/epaper/">e</a>
 		</li>
 		<li>
 			<a href="https://www.thedailystar.net/">The Daily Star</a> |

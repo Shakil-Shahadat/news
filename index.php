@@ -32,7 +32,8 @@
 			<a href="https://www.prothomalo.com/tp_tech/">কম্পিউটার প্রতিদিন</a> |
 			<a href="https://www.prothomalo.com/technology">বিজ্ঞান ও প্রযুক্তি</a> |
 			<a href="https://www.prothomalo.com/life_style">জীবনযাপন</a> |
-			<a href="https://www.prothomalo.com/tp_world/">সারা বিশ্ব</a>
+			<a href="https://www.prothomalo.com/tp_world/">সারা বিশ্ব</a> |
+			<a href="https://epaper.prothomalo.com/">ই</a>
 		</li>
 		<li>
 			<a href="https://www.banglatribune.com/">বাংলা ট্রিবিউন</a>

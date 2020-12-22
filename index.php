@@ -158,6 +158,10 @@
 			<a href="https://bongobd.com/channel/bbc-world">Live</a>
 		</li>
 		<li>
+			<a href="https://edition.cnn.com/">CNN International</a> |
+			<a href="https://livenewstime.com/headlines/">Live</a>
+		</li>
+		<li>
 			<a href="https://www.forbes.com/">Forbes</a>
 		</li>
 		<li>

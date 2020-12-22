@@ -163,6 +163,9 @@
 			<a href="https://www.reuters.com/">Reuters</a>
 		</li>
 		<li>
+			<a href="https://www.nytimes.com/">The New York Times</a>
+		</li>
+		<li>
 			<a href="http://www.timesofassam.com/">Times of Assam</a>
 		</li>
 		<li>

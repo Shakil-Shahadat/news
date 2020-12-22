@@ -154,6 +154,10 @@
 			<a href="https://www.aljazeera.com/">Al Jazeera</a>
 		</li>
 		<li>
+			<a href="https://www.bbc.com/">BBC</a> |
+			<a href="https://bongobd.com/channel/bbc-world">Live</a>
+		</li>
+		<li>
 			<a href="https://www.forbes.com/">Forbes</a>
 		</li>
 		<li>

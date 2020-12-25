@@ -250,11 +250,8 @@
 </main>
 
 <script>
-// Add target="_blank" to all anchor tags, v 1.04
-for ( let i = 0; i < document.querySelectorAll( 'a' ).length; i++ )
-{
-	document.querySelectorAll( 'a' )[ i ].setAttribute( 'target', '_blank' );
-}
+// Add target="_blank" to all anchor tags, v 1.05
+for ( x of document.querySelectorAll( 'a' ) ) x.setAttribute( 'target', '_blank' );
 </script>
 </body>
 </html>

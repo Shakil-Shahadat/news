@@ -69,7 +69,8 @@
 			<a href="https://www.jugantor.com/todays-paper/ten-horizon">দশ দিগন্ত</a>
 		</li>
 		<li>
-			<a href="https://samakal.com/">সমকাল</a>
+			<a href="https://samakal.com/">সমকাল</a> |
+			<a href="https://epaper.samakal.com/">ই</a>
 		</li>
 	</ol>
 

@@ -188,6 +188,12 @@
 	<h3>TV</h3>
 	<ol>
 		<li>
+			<a href="https://www.youtube.com/c/atnnewsltd/videos">ATN News</a> |
+			<a href="https://www.youtube.com/c/ATNBanglanews/videos">
+				ATN Bangla News
+			</a>
+		</li>
+		<li>
 			<a href="https://www.channelionline.com/">Channel I.com</a> |
 			<a href="https://www.youtube.com/channel/UC8NcXMG3A3f2aFQyGTpSNww/videos">News YT</a> |
 			<a href="https://www.youtube.com/channel/UCLuPUjbBSIYmltR5D8Srq7A/videos">Shows</a> |

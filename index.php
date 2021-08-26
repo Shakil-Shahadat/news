@@ -172,6 +172,9 @@
 			<a href="https://www.reuters.com/">Reuters</a>
 		</li>
 		<li>
+			<a href="https://www.economist.com/">The Economist</a>
+		</li>
+		<li>
 			<a href="https://www.nytimes.com/">The New York Times</a>
 		</li>
 		<li>

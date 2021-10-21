@@ -178,9 +178,6 @@
 			<a href="https://www.nytimes.com/">The New York Times</a>
 		</li>
 		<li>
-			<a href="http://www.timesofassam.com/">Times of Assam</a>
-		</li>
-		<li>
 			<a href="https://news.yahoo.com/">Yahoo News</a>
 		</li>
 	</ol>

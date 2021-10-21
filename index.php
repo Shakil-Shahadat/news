@@ -184,6 +184,9 @@
 
 	<h3>Indian</h3>
 	<ol>
+		<li>
+			<a href="https://www.timesofassam.com/">Times of Assam</a>
+		</li>
 	</ol>
 
 	<h3>TV</h3>

@@ -176,6 +176,11 @@
 			<a href="https://www.economist.com/">The Economist</a>
 		</li>
 		<li>
+			<a href="https://www.youtube.com/c/TheGeopoliticsInConflictShow/videos">
+				The Geopolitics In Conflict Show
+			</a>
+		</li>
+		<li>
 			<a href="https://www.nytimes.com/">The New York Times</a>
 		</li>
 		<li>

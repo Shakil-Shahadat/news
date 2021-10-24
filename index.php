@@ -196,6 +196,11 @@
 			</a>
 		</li>
 		<li>
+			<a href="https://www.youtube.com/c/ThePrintIndia/videos">
+				ThePrint
+			</a>
+		</li>
+		<li>
 			<a href="https://www.timesofassam.com/">Times of Assam</a>
 		</li>
 	</ol>

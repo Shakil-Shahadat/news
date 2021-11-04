@@ -181,6 +181,11 @@
 			<a href="https://www.nytimes.com/">The New York Times</a>
 		</li>
 		<li>
+			<a href="https://www.whitehouse.gov/briefing-room/speeches-remarks/">
+				The White House
+			</a>
+		</li>
+		<li>
 			<a href="https://news.yahoo.com/">Yahoo News</a>
 		</li>
 	</ol>

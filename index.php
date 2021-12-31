@@ -165,6 +165,9 @@
 			<a href="https://livenewstime.com/headlines/">Live</a>
 		</li>
 		<li>
+			<a href="https://www.youtube.com/c/dwnews/videos">DW News</a>
+		</li>
+		<li>
 			<a href="https://www.forbes.com/">Forbes</a>
 		</li>
 		<li>

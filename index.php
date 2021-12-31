@@ -180,6 +180,9 @@
 			<a href="https://www.reuters.com/">Reuters</a>
 		</li>
 		<li>
+			<a href="https://www.youtube.com/c/RT/videos">RT</a>
+		</li>
+		<li>
 			<a href="https://www.youtube.com/c/SouthChinaMorningPost/videos">
 				South China Morning Post
 			</a>

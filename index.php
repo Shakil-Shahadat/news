@@ -232,6 +232,11 @@
 			</a>
 		</li>
 		<li>
+			<a href="https://www.youtube.com/c/TheHinduOfficial/videos">
+				The Hindu
+			</a>
+		</li>
+		<li>
 			<a href="https://www.timesofassam.com/">Times of Assam</a>
 		</li>
 		<li>

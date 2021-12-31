@@ -193,7 +193,8 @@
 			</a>
 		</li>
 		<li>
-			<a href="https://www.nytimes.com/">The New York Times</a>
+			<a href="https://www.nytimes.com/">The New York Times</a> |
+			<a href="https://www.youtube.com/c/nytimes/videos">YT</a>
 		</li>
 		<li>
 			<a href="https://www.whitehouse.gov/briefing-room/speeches-remarks/">

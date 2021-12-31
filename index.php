@@ -161,6 +161,9 @@
 			<a href="https://bongobd.com/channel/bbc-world">Live</a>
 		</li>
 		<li>
+			<a href="https://www.youtube.com/c/CBSNews/videos">CBS News</a>
+		</li>
+		<li>
 			<a href="https://edition.cnn.com/">CNN International</a> |
 			<a href="https://livenewstime.com/headlines/">Live</a>
 		</li>

@@ -48,7 +48,8 @@
 			<a href="https://bangla.bdnews24.com/tech/">টেক</a>
 		</li>
 		<li>
-			<a href="https://www.bbc.com/bengali">বিবিসি বাংলা</a>
+			<a href="https://www.bbc.com/bengali">বিবিসি বাংলা</a> |
+			<a href="https://www.youtube.com/c/BBCBangla/videos">YT</a>
 		</li>
 		<li>
 			<a href="https://www.bhorerkagoj.com/">ভোরের কাগজ</a>

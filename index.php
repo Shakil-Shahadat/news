@@ -237,6 +237,9 @@
 			</a>
 		</li>
 		<li>
+			<a href="https://thewire.in/">The Wire</a>
+		</li>
+		<li>
 			<a href="https://www.timesofassam.com/">Times of Assam</a>
 		</li>
 		<li>

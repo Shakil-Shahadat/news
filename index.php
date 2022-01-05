@@ -190,7 +190,8 @@
 			</a>
 		</li>
 		<li>
-			<a href="https://www.economist.com/">The Economist</a>
+			<a href="https://www.economist.com/">The Economist</a> |
+			<a href="https://www.youtube.com/c/TheEconomist/videos">YT</a>
 		</li>
 		<li>
 			<a href="https://www.youtube.com/c/TheGeopoliticsInConflictShow/videos">

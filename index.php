@@ -223,6 +223,14 @@
 			</a>
 		</li>
 		<li>
+			<a href="https://www.youtube.com/watch?v=zGpJ1NgRXoI">
+				DD India YT Live
+			</a> |
+			<a href="https://www.youtube.com/watch?v=8dC0vuugL9w">
+				DD News YT Live
+			</a>
+		</li>
+		<li>
 			<a href="https://www.hindustantimes.com/">
 				Hindustan Times
 			</a>

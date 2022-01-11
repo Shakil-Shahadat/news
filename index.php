@@ -241,6 +241,11 @@
 			</a>
 		</li>
 		<li>
+			<a href="https://www.youtube.com/watch?v=uQHvbC5WMRw">
+				News18 India YT Live
+			</a>
+		</li>
+		<li>
 			<a href="https://www.youtube.com/c/ThePrintIndia/videos">
 				ThePrint
 			</a>

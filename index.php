@@ -259,8 +259,11 @@
 			</a>
 		</li>
 		<li>
-			<a href="https://www.youtube.com/c/ThePrintIndia/videos">
+			<a href="https://theprint.in/">
 				ThePrint
+			</a> |
+			<a href="https://www.youtube.com/c/ThePrintIndia/videos">
+				YT
 			</a>
 		</li>
 		<li>

@@ -137,10 +137,10 @@
 		</li>
 		<li>
 			<a href="https://www.thedailystar.net/">The Daily Star</a> |
+			<a href="https://epaper.thedailystar.net/">e</a> |
 			<a href="https://www.thedailystar.net/todays-news">Today's News</a> |
-			<a href="https://www.facebook.com/dailystarnews">FB</a> |
 			<a href="https://www.thedailystar.net/tech-startup">Tech &amp; Startup</a> |
-			<a href="https://epaper.thedailystar.net/">e</a>
+			<a href="https://www.facebook.com/dailystarnews">FB</a>
 		</li>
 		<li>
 			<a href="https://thefinancialexpress.com.bd/">The Financial Express</a>

@@ -141,7 +141,7 @@
 			<a href="https://www.thedailystar.net/todays-news">Today's News</a> |
 			<a href="https://www.thedailystar.net/bytes">Bytes</a> |
 			<a href="https://www.thedailystar.net/tech-startup">Tech &amp; Startup</a> |
-			<a href="https://www.thedailystar.net/toggle">TOGGLE | The Daily Star</a> |
+			<a href="https://www.thedailystar.net/toggle">Toggle</a> |
 			<a href="https://www.thedailystar.net/business">Business</a> |
 			<a href="https://www.thedailystar.net/entertainment">Entertainment</a> |
 			<a href="https://www.facebook.com/dailystarnews">FB</a>

@@ -193,6 +193,11 @@
 			<a href="https://www.youtube.com/c/RT/videos">RT</a>
 		</li>
 		<li>
+			<a href="https://www.youtube.com/watch?v=9Auq9mYxFEE">
+				Sky News YT Live
+			</a>
+		</li>
+		<li>
 			<a href="https://www.youtube.com/c/SouthChinaMorningPost/videos">
 				South China Morning Post
 			</a>

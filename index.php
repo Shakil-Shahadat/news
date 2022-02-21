@@ -164,6 +164,11 @@
 			<a href="https://bongobd.com/channel/bbc-world">Live</a>
 		</li>
 		<li>
+			<a href="https://www.youtube.com/watch?v=dp8PhLsUcFE">
+				Bloomberg Global Financial News YT Live
+			</a>
+		</li>
+		<li>
 			<a href="https://www.youtube.com/c/CBSNews/videos">CBS News</a>
 		</li>
 		<li>

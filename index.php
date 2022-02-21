@@ -143,6 +143,7 @@
 			<a href="https://www.thedailystar.net/tech-startup">Tech &amp; Startup</a> |
 			<a href="https://www.thedailystar.net/toggle">Toggle</a> |
 			<a href="https://www.thedailystar.net/business">Business</a> |
+			<a href="https://www.thedailystar.net/shout">Shout</a> |
 			<a href="https://www.thedailystar.net/entertainment">Entertainment</a> |
 			<a href="https://www.facebook.com/dailystarnews">FB</a>
 		</li>

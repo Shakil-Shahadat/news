@@ -345,7 +345,7 @@
 	 		<a href="https://www.youtube.com/user/independent24tube/videos">YT</a>
 		</li>
 		<li>
-			<a href="https://www.youtube.com/c/NEWS24TV/videos">NEWS24</a> |
+			<a href="https://www.youtube.com/c/NEWS24TV/videos">NEWS24 YT</a> |
 			<span>YT Live Available</span>
 		</li>
 		<li>

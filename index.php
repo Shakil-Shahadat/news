@@ -12,7 +12,7 @@
 	<ol>
 		<li>
 			<a href="https://www.ittefaq.com.bd/">ইত্তেফাক</a> |
-			<a href="https://www.ittefaq.com.bd/print-edition">আজকের পত্রিকা</a> |
+			<a href="https://www.ittefaq.com.bd/latest">সর্বশেষ</a> |
 			<a href="https://epaper.ittefaq.com.bd/">ই</a>
 		</li>
 		<li>

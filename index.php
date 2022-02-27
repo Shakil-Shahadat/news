@@ -346,7 +346,7 @@
 		</li>
 		<li>
 			<a href="https://www.youtube.com/c/NEWS24TV/videos">NEWS24</a> |
-			<a href="https://www.youtube.com/watch?v=ug1l9TR-VwM">YT Live</a>
+			<span>YT Live Available</span>
 		</li>
 		<li>
 			<a href="https://www.ntvbd.com/">NTV</a> |

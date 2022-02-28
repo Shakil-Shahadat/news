@@ -12,8 +12,8 @@
 	<ol>
 		<li>
 			<a href="https://www.ittefaq.com.bd/">ইত্তেফাক</a> |
-			<a href="https://www.ittefaq.com.bd/latest">সর্বশেষ</a> |
 			<a href="https://epaper.ittefaq.com.bd/">ই</a> |
+			<a href="https://www.ittefaq.com.bd/latest">সর্বশেষ</a> |
 			<a href="https://www.facebook.com/dainikIttefaq">FB</a>
 		</li>
 		<li>

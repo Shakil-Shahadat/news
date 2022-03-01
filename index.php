@@ -19,7 +19,7 @@
 		<li>
 			<a href="https://www.kalerkantho.com/">কালের কণ্ঠ</a> |
 			<a href="http://www.ekalerkantho.com/">ই</a> |
-			<a href="https://www.kalerkantho.com/print-edition/tech-everyday">টেক প্রতিদিন</a> |
+			<a href="https://www.kalerkantho.com/online/info-tech">তথ্যপ্রযুক্তি</a> |
 			<a href="https://www.facebook.com/kalerkantho">FB</a>
 		</li>
 		<li>

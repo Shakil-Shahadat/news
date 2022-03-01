@@ -24,7 +24,8 @@
 			<a href="https://www.facebook.com/kalerkantho">FB</a>
 		</li>
 		<li>
-			<a href="https://www.dailynayadiganta.com/">নয়াদিগন্ত</a>
+			<a href="https://www.dailynayadiganta.com/">নয়াদিগন্ত</a> |
+			<a href="http://www.enayadiganta.com/">ই</a>
 		</li>
 		<li>
 			<a href="https://www.prothomalo.com/">প্রথম আলো</a> |

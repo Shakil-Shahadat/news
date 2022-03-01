@@ -28,6 +28,7 @@
 			<a href="http://www.enayadiganta.com/">ই</a> |
 			<a href="https://www.dailynayadiganta.com/todays-paper/13">আজকের পত্রিকা</a> |
 			<a href="https://www.youtube.com/c/NayaDigantaOnline/videos">YT</a> |
+			<a href="https://www.facebook.com/nayadiganta">FB</a>
 		</li>
 		<li>
 			<a href="https://www.prothomalo.com/">প্রথম আলো</a> |

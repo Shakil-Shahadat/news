@@ -63,6 +63,7 @@
 			<a href="https://www.banglanews24.com/">বাংলা নিউজ টোয়েন্টিফোর</a> |
 			<a href="https://www.banglanews24.com/category/আন্তর্জাতিক/4">আন্তর্জাতিক</a> |
 			<a href="https://www.banglanews24.com/category/তথ্যপ্রযুক্তি/7">তথ্যপ্রযুক্তি</a> |
+			<a href="https://www.facebook.com/banglanews24">FB</a>
 		</li>
 		<li>
 			<a href="https://bangla.bdnews24.com/">বিডি নিউজ টুয়েন্টিফোর</a> |

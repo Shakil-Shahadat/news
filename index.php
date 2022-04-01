@@ -50,6 +50,7 @@
 			<a href="https://www.banglatribune.com/columns">কলাম</a> |
 			<a href="https://www.banglatribune.com/business">বিজনেস</a> |
 			<a href="https://www.banglatribune.com/tech-and-gadget">টেক</a> |
+			<a href="https://www.facebook.com/BanglaTribuneOnline">FB</a>
 		</li>
 		<li>
 			<a href="http://www.bd-pratidin.com/">বাংলাদেশ প্রতিদিন</a> |

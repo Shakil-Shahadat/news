@@ -48,6 +48,7 @@
 			<a href="https://www.banglatribune.com/">বাংলা ট্রিবিউন</a> |
 			<a href="https://www.banglatribune.com/foreign">বিদেশ</a> |
 			<a href="https://www.banglatribune.com/columns">কলাম</a> |
+			<a href="https://www.banglatribune.com/business">বিজনেস</a> |
 		</li>
 		<li>
 			<a href="http://www.bd-pratidin.com/">বাংলাদেশ প্রতিদিন</a> |

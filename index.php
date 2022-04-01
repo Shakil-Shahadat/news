@@ -67,6 +67,7 @@
 		</li>
 		<li>
 			<a href="https://bangla.bdnews24.com/">বিডি নিউজ টুয়েন্টিফোর</a> |
+			<a href="https://bangla.bdnews24.com/world/">বিশ্ব</a> |
 			<a href="https://bangla.bdnews24.com/tech/">টেক</a>
 		</li>
 		<li>

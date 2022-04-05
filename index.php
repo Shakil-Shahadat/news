@@ -131,6 +131,7 @@
 		<li>
 			<a href="https://www.bhorerkagoj.com/">ভোরের কাগজ</a> |
 			<a href="https://www.bhorerkagoj.com/print-edition/">আজকের পত্রিকা</a> |
+			<a href="https://ebhorerkagoj.com/">ই</a> |
 		</li>
 		<li>
 			<a href="http://www.shershanews24.com/">শীর্ষ নিউজ</a>

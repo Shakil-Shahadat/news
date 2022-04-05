@@ -28,6 +28,9 @@
 			<a href="https://www.facebook.com/kalerkantho">FB</a>
 		</li>
 		<li>
+			<a href="https://www.dw.com/bn/বিষয়/s-11929">ডয়েচে ভেলে</a> |
+		</li>
+		<li>
 			<a href="https://www.dailynayadiganta.com/">নয়াদিগন্ত</a> |
 			<a href="http://www.enayadiganta.com/">ই</a> |
 			<a href="https://www.dailynayadiganta.com/todays-paper/13">আজকের পত্রিকা</a> |

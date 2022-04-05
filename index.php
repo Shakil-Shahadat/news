@@ -78,9 +78,6 @@
 			<a href="https://www.facebook.com/BBCBengaliService">FB</a>
 		</li>
 		<li>
-			<a href="https://www.bhorerkagoj.com/">ভোরের কাগজ</a>
-		</li>
-		<li>
 			<a href="https://mzamin.com/">মানবজমিন</a>
 		</li>
 		<li>
@@ -130,6 +127,9 @@
 		</li>
 		<li>
 			<a href="http://www.bssnews.net/bangla/">বাংলাদেশ সংবাদ সংস্থা</a>
+		</li>
+		<li>
+			<a href="https://www.bhorerkagoj.com/">ভোরের কাগজ</a>
 		</li>
 		<li>
 			<a href="http://www.shershanews24.com/">শীর্ষ নিউজ</a>

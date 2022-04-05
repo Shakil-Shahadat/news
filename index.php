@@ -78,7 +78,8 @@
 			<a href="https://www.facebook.com/BBCBengaliService">FB</a>
 		</li>
 		<li>
-			<a href="https://mzamin.com/">মানবজমিন</a>
+			<a href="https://mzamin.com/">মানবজমিন</a> |
+			<a href="https://mzamin.com/category.php?cid=8">আন্তর্জাতিক</a> |
 		</li>
 		<li>
 			<a href="https://www.jaijaidinbd.com/">যায় যায় দিন</a>

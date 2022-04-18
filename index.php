@@ -346,6 +346,11 @@
 			</a> | YT Live Available
 		</li>
 		<li>
+			<a href="https://www.youtube.com/channel/UCz2yxQJZgiB_5elTzqV7FiQ">
+				BOL News
+			</a> | YT Live Available
+		</li>
+		<li>
 			<a href="https://www.youtube.com/channel/UCnMBV5Iw4WqKILKue1nP6Hg">
 				Dunya News
 			</a> | YT Live Available

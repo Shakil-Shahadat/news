@@ -340,6 +340,11 @@
 
 	<h3>Pakistan</h3>
 	<ol>
+		<li>
+			<a href="https://www.youtube.com/c/ArynewsTvofficial">
+				ARY News
+			</a> | YT Live Available
+		</li>
 	</ol>
 
 	<h3>TV</h3>

@@ -88,6 +88,7 @@
 		</li>
 		<li>
 			<a href="https://www.jaijaidinbd.com/">যায় যায় দিন</a> |
+			<a href="https://www.ejjdin.com/">ই</a> |
 			<a href="https://www.jaijaidinbd.com/todays-paper">আজকের পত্রিকা</a> |
 			<a href="https://www.jaijaidinbd.com/international">আন্তর্জাতিক</a> |
 			<a href="https://www.jaijaidinbd.com/economics">অর্থনীতি</a> |

@@ -91,6 +91,7 @@
 			<a href="https://www.jaijaidinbd.com/todays-paper">আজকের পত্রিকা</a> |
 			<a href="https://www.jaijaidinbd.com/international">আন্তর্জাতিক</a> |
 			<a href="https://www.jaijaidinbd.com/economics">অর্থনীতি</a> |
+			<a href="https://www.jaijaidinbd.com/information-technology">তথ্য প্রযুক্তি</a> |
 		</li>
 		<li>
 			<a href="https://www.jugantor.com/">যুগান্তর</a> |

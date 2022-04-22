@@ -105,7 +105,8 @@
 			<a href="https://www.jugantor.com/economics">অর্থনীতি</a> |
 			<a href="https://www.jugantor.com/todays-paper/it-world">আইটি বিশ্ব</a> |
 			<a href="https://www.jugantor.com/lifestyle/travel">ভ্রমণ</a> |
-			<a href="https://www.jugantor.com/todays-paper/ten-horizon">দশ দিগন্ত</a>
+			<a href="https://www.jugantor.com/todays-paper/ten-horizon">দশ দিগন্ত</a> |
+			<a href="https://www.facebook.com/DainikJugantor/">FB</a>
 		</li>
 		<li>
 			<a href="https://samakal.com/">সমকাল</a> |

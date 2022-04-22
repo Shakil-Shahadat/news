@@ -102,6 +102,7 @@
 			<a href="https://epaper.jugantor.com/">ই</a> |
 			<a href="https://www.jugantor.com/todays-paper">আজকের পত্রিকা</a> |
 			<a href="https://www.jugantor.com/international">আন্তর্জাতিক</a> |
+			<a href="https://www.jugantor.com/economics">অর্থনীতি</a> |
 			<a href="https://www.jugantor.com/todays-paper/it-world">আইটি বিশ্ব</a> |
 			<a href="https://www.jugantor.com/todays-paper/ten-horizon">দশ দিগন্ত</a>
 		</li>

@@ -93,6 +93,7 @@
 			<a href="https://www.jaijaidinbd.com/international">আন্তর্জাতিক</a> |
 			<a href="https://www.jaijaidinbd.com/economics">অর্থনীতি</a> |
 			<a href="https://www.jaijaidinbd.com/information-technology">তথ্য প্রযুক্তি</a> |
+			<a href="https://www.jaijaidinbd.com/all-news/feature/health">সুস্বাস্থ্য</a> |
 			<a href="https://www.jaijaidinbd.com/tour">ভ্রমণ</a> |
 			<a href="https://www.facebook.com/jaijaidinnews/">FB</a>
 		</li>

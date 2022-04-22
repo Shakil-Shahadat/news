@@ -87,7 +87,8 @@
 			<a href="https://www.facebook.com/dailymanabzamin/">FB</a>
 		</li>
 		<li>
-			<a href="https://www.jaijaidinbd.com/">যায় যায় দিন</a>
+			<a href="https://www.jaijaidinbd.com/">যায় যায় দিন</a> |
+			<a href="https://www.jaijaidinbd.com/todays-paper">আজকের পত্রিকা</a> |
 		</li>
 		<li>
 			<a href="https://www.jugantor.com/">যুগান্তর</a> |

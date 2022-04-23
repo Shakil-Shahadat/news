@@ -128,7 +128,8 @@
 		</li>
 		<li>
 			<a href="https://www.dailyinqilab.com/">ইনকিলাব</a> |
-			<a href="https://www.dailyinqilab.com/epaper/">ই</a>
+			<a href="https://www.dailyinqilab.com/epaper/">ই</a> |
+			<a href="https://www.dailyinqilab.com/todaysnewspaper/">আজকের পত্রিকা</a> |
 		</li>
 		<li>
 			<a href="http://akhonsamoy.com/">এখন সময়</a>

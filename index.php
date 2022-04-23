@@ -114,6 +114,7 @@
 			<a href="https://samakal.com/international">আন্তর্জাতিক</a> |
 			<a href="https://samakal.com/economics">অর্থনীতি</a> |
 			<a href="https://samakal.com/opinion">মতামত</a> |
+			<a href="https://samakal.com/lifestyle">জীবনশৈলী</a> |
 		</li>
 	</ol>
 

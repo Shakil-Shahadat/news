@@ -116,6 +116,7 @@
 			<a href="https://samakal.com/opinion">মতামত</a> |
 			<a href="https://samakal.com/technology">প্রযুক্তি</a> |
 			<a href="https://samakal.com/lifestyle">জীবনশৈলী</a> |
+			<a href="https://samakal.com/travel">ভ্রমণ</a> |
 		</li>
 	</ol>
 

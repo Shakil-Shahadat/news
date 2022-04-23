@@ -110,7 +110,8 @@
 		</li>
 		<li>
 			<a href="https://samakal.com/">সমকাল</a> |
-			<a href="https://epaper.samakal.com/">ই</a>
+			<a href="https://epaper.samakal.com/">ই</a> |
+			<a href="https://samakal.com/economics">অর্থনীতি</a> |
 		</li>
 	</ol>
 

@@ -357,7 +357,7 @@
 		</li>
 	</ol>
 
-	<h3>Indian</h3>
+	<h3>India</h3>
 	<ol>
 		<li>
 			<a href="https://www.anandabazar.com/">

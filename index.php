@@ -43,6 +43,7 @@
 			<a href="https://www.prothomalo.com/">প্রথম আলো</a> |
 			<a href="https://epaper.prothomalo.com/">ই</a> |
 			<a href="https://www.prothomalo.com/world/">সারা বিশ্ব</a> |
+			<a href="https://www.prothomalo.com/business">অর্থনীতি</a> |
 			<a href="https://www.prothomalo.com/education/science-tech">প্রযুক্তি</a> |
 			<a href="https://www.prothomalo.com/lifestyle">লাইফস্টাইল</a> |
 			<a href="https://www.youtube.com/c/ProthomAlo/videos">YT</a> |

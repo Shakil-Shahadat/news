@@ -213,6 +213,70 @@
 		</li>
 	</ol>
 
+
+	<h3>TV</h3>
+	<ol>
+		<li>
+			<a href="https://www.youtube.com/c/atnnewsltd/videos">ATN News</a> |
+			<a href="https://www.youtube.com/c/ATNBanglanews/videos">
+				ATN Bangla News
+			</a>
+		</li>
+		<li>
+			<a href="https://www.youtube.com/c/BanglaVisionNEWS/videos">
+				BanglaVision NEWS
+			</a>
+		</li>
+		<li>
+			<a href="https://www.channelionline.com/">Channel I.com</a> |
+			<a href="https://www.youtube.com/channel/UC8NcXMG3A3f2aFQyGTpSNww/videos">News YT</a> |
+			<a href="https://www.youtube.com/channel/UCLuPUjbBSIYmltR5D8Srq7A/videos">Shows</a> |
+			<a href="https://www.youtube.com/channel/UCfNBi-m7X8ntCBbban1QaYw/videos">Multimedia</a> |
+			<a href="https://www.youtube.com/user/shykhseraj/videos">Shykh Seraj</a> |
+			<a href="https://www.youtube.com/channel/UCAz6rveBalVnE6qTmfQnvyQ/videos">TV</a>
+		</li>
+		<li>
+			<a href="https://www.youtube.com/c/channel24online/videos">Channel 24 YT</a>
+		</li>
+		<li>
+			<a href="https://www.youtube.com/c/DBCNEWSTV/videos">DBC NEWS</a>
+		</li>
+		<li>
+			<a href="http://www.ekattor.tv/">Ekattor TV</a> |
+			<a href="https://www.facebook.com/ekattor.tv">FB</a> |
+			<a href="https://www.youtube.com/user/CH71TV/videos">YT</a> |
+			<a href="https://bongobd.com/channel/ekattur-tv">Live</a>
+		</li>
+	 	<li>
+	 		<a href="http://www.ekushey-tv.com/">Ekushey Television</a>
+	 	</li>
+		<li>
+			<a href="http://independent24.com/">Independent24</a> |
+	 		<a href="https://www.youtube.com/user/independent24tube/videos">YT</a>
+		</li>
+		<li>
+			<a href="https://www.news24bd.tv/">News24</a> |
+			<a href="https://www.youtube.com/c/NEWS24TV/videos">YT</a> |
+			<a href="https://www.facebook.com/news24bd.tv">FB</a> |
+			<span>YT Live Available</span>
+		</li>
+		<li>
+			<a href="https://www.ntvbd.com/">NTV</a> |
+			<a href="https://www.ntvbd.com/video/ntv-news/shondhyar-khobor">সন্ধ্যার খবর</a>
+		</li>
+		<li>
+			<a href="https://www.youtube.com/c/RtvNews/videos">Rtv News YT</a> |
+			<a href="https://www.youtube.com/c/RtvTalkshow/videos">Rtv Talkshow</a>
+		</li>
+	 	<li>
+	 		<a href="http://www.somoynews.tv/">Somoy TV</a> |
+	 		<a href="https://www.youtube.com/watch?v=KgiwN7ddb2U">Live YT</a> |
+	 		<a href="https://bongobd.com/channel/somoy-tv">Live ( Bongo )</a> |
+	 		<a href="https://www.youtube.com/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ/videos">YT</a>
+	 	</li>
+	</ol>
+
+
 	<h3>English ( Foreign )</h3>
 	<ol>
 		<li>
@@ -391,67 +455,6 @@
 		</li>
 	</ol>
 
-	<h3>TV</h3>
-	<ol>
-		<li>
-			<a href="https://www.youtube.com/c/atnnewsltd/videos">ATN News</a> |
-			<a href="https://www.youtube.com/c/ATNBanglanews/videos">
-				ATN Bangla News
-			</a>
-		</li>
-		<li>
-			<a href="https://www.youtube.com/c/BanglaVisionNEWS/videos">
-				BanglaVision NEWS
-			</a>
-		</li>
-		<li>
-			<a href="https://www.channelionline.com/">Channel I.com</a> |
-			<a href="https://www.youtube.com/channel/UC8NcXMG3A3f2aFQyGTpSNww/videos">News YT</a> |
-			<a href="https://www.youtube.com/channel/UCLuPUjbBSIYmltR5D8Srq7A/videos">Shows</a> |
-			<a href="https://www.youtube.com/channel/UCfNBi-m7X8ntCBbban1QaYw/videos">Multimedia</a> |
-			<a href="https://www.youtube.com/user/shykhseraj/videos">Shykh Seraj</a> |
-			<a href="https://www.youtube.com/channel/UCAz6rveBalVnE6qTmfQnvyQ/videos">TV</a>
-		</li>
-		<li>
-			<a href="https://www.youtube.com/c/channel24online/videos">Channel 24 YT</a>
-		</li>
-		<li>
-			<a href="https://www.youtube.com/c/DBCNEWSTV/videos">DBC NEWS</a>
-		</li>
-		<li>
-			<a href="http://www.ekattor.tv/">Ekattor TV</a> |
-			<a href="https://www.facebook.com/ekattor.tv">FB</a> |
-			<a href="https://www.youtube.com/user/CH71TV/videos">YT</a> |
-			<a href="https://bongobd.com/channel/ekattur-tv">Live</a>
-		</li>
-	 	<li>
-	 		<a href="http://www.ekushey-tv.com/">Ekushey Television</a>
-	 	</li>
-		<li>
-			<a href="http://independent24.com/">Independent24</a> |
-	 		<a href="https://www.youtube.com/user/independent24tube/videos">YT</a>
-		</li>
-		<li>
-			<a href="https://www.news24bd.tv/">News24</a> |
-			<a href="https://www.youtube.com/c/NEWS24TV/videos">YT</a> |
-			<a href="https://www.facebook.com/news24bd.tv">FB</a> |
-			<span>YT Live Available</span>
-		</li>
-		<li>
-			<a href="https://www.ntvbd.com/">NTV</a> |
-			<a href="https://www.ntvbd.com/video/ntv-news/shondhyar-khobor">সন্ধ্যার খবর</a>
-		</li>
-		<li>
-			<a href="https://www.youtube.com/c/RtvNews/videos">Rtv News YT</a> |
-			<a href="https://www.youtube.com/c/RtvTalkshow/videos">Rtv Talkshow</a>
-		</li>
-	 	<li>
-	 		<a href="http://www.somoynews.tv/">Somoy TV</a> |
-	 		<a href="https://www.youtube.com/watch?v=KgiwN7ddb2U">Live YT</a> |
-	 		<a href="https://bongobd.com/channel/somoy-tv">Live ( Bongo )</a> |
-	 		<a href="https://www.youtube.com/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ/videos">YT</a>
-	 	</li>
-	</ol>
 
 	<h3>Newspaper Links Collection</h3>
 	<ol>

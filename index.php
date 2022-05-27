@@ -157,9 +157,6 @@
 			<a href="http://www.dainikamadershomoy.com/">দৈনিক আমাদের সময়</a>
 		</li>
 		<li>
-			<a href="http://www.natunbarta.com/">নতুন বার্তা</a>
-		</li>
-		<li>
 			<a href="http://www.poriborton.news/">পরিবর্তন</a>
 		</li>
 		<li>

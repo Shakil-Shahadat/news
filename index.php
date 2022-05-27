@@ -172,9 +172,6 @@
 			<a href="https://www.facebook.com/bhorerkagoj.live/">FB</a>
 		</li>
 		<li>
-			<a href="http://www.shershanews24.com/">শীর্ষ নিউজ</a>
-		</li>
-		<li>
 			<a href="https://www.somoyerkonthosor.com/">সময়ের কন্ঠস্বর</a>
 		</li>
 	</ol>

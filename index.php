@@ -145,7 +145,7 @@
 			<a href="https://www.facebook.com/DailyInqilabOnline/">FB</a>
 		</li>
 		<li>
-			<a href="http://akhonsamoy.com/">এখন সময়</a>
+			<a href="https://akhonsamoy.com/">এখন সময়</a>
 		</li>
 		<li>
 			<a href="https://www.dhakatimes24.com/">ঢাকা টাইমস</a>

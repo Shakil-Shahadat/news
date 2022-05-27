@@ -92,6 +92,7 @@
 		<li>
 			<a href="https://mzamin.com/">মানবজমিন</a> |
 			<a href="https://mzamin.com/category.php?cid=8">আন্তর্জাতিক</a> |
+			<a href="https://mzamin.com/category.php?cat=11">অর্থ-বাণিজ্য</a> |
 			<a href="https://www.facebook.com/dailymanabzamin/">FB</a>
 		</li>
 		<li>

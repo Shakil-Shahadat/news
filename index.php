@@ -45,7 +45,7 @@
 		<li>
 			<a href="https://www.prothomalo.com/">প্রথম আলো</a> |
 			<a href="https://epaper.prothomalo.com/">ই</a> |
-			<a href="https://www.prothomalo.com/world/">সারা বিশ্ব</a> |
+			<a href="https://www.prothomalo.com/world/">আন্তর্জাতিক</a> |
 			<a href="https://www.prothomalo.com/business">অর্থনীতি</a> |
 			<a href="https://www.prothomalo.com/opinion">মতামত</a> |
 			<a href="https://www.prothomalo.com/education/science-tech">প্রযুক্তি</a> |

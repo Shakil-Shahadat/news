@@ -27,6 +27,7 @@
 			<a href="http://www.ekalerkantho.com/">ই</a> |
 			<a href="https://www.kalerkantho.com/print-edition/">আজকের পত্রিকা</a> |
 			<a href="https://www.kalerkantho.com/online/business">বাণিজ্য</a> |
+			<a href="https://www.kalerkantho.com/print-edition/sub-editorial">মতামত</a> |
 			<a href="https://www.kalerkantho.com/online/info-tech">তথ্যপ্রযুক্তি</a> |
 			<a href="https://www.facebook.com/kalerkantho">FB</a>
 		</li>

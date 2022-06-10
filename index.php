@@ -16,6 +16,7 @@
 			<a href="https://www.ittefaq.com.bd/latest">সর্বশেষ</a> |
 			<a href="https://www.ittefaq.com.bd/world-news">আন্তর্জাতিক</a> |
 			<a href="https://www.ittefaq.com.bd/business">বাণিজ্য</a> |
+			<a href="https://www.ittefaq.com.bd/opinion">মতামত</a> |
 			<a href="https://www.ittefaq.com.bd/tech">টেক</a> |
 			<a href="https://www.ittefaq.com.bd/health">স্বাস্থ্য</a> |
 			<a href="https://www.ittefaq.com.bd/lifestyle">লাইফস্টাইল</a> |

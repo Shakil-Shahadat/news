@@ -26,6 +26,7 @@
 			<a href="https://www.kalerkantho.com/">কালের কণ্ঠ</a> |
 			<a href="http://www.ekalerkantho.com/">ই</a> |
 			<a href="https://www.kalerkantho.com/print-edition/">আজকের পত্রিকা</a> |
+			<a href="https://www.kalerkantho.com/online/world/">আন্তর্জাতিক</a> |
 			<a href="https://www.kalerkantho.com/online/business">বাণিজ্য</a> |
 			<a href="https://www.kalerkantho.com/print-edition/sub-editorial">মতামত</a> |
 			<a href="https://www.kalerkantho.com/online/info-tech">তথ্যপ্রযুক্তি</a> |

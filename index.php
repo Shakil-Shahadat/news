@@ -14,7 +14,7 @@
 			<a href="https://www.ittefaq.com.bd/">ইত্তেফাক</a> |
 			<a href="https://epaper.ittefaq.com.bd/">ই</a> |
 			<a href="https://www.ittefaq.com.bd/latest">সর্বশেষ</a> |
-			<a href="https://www.ittefaq.com.bd/world-news">বিশ্ব সংবাদ</a> |
+			<a href="https://www.ittefaq.com.bd/world-news">আন্তর্জাতিক</a> |
 			<a href="https://www.ittefaq.com.bd/business">বাণিজ্য</a> |
 			<a href="https://www.ittefaq.com.bd/tech">টেক</a> |
 			<a href="https://www.ittefaq.com.bd/health">স্বাস্থ্য</a> |

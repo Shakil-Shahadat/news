@@ -40,6 +40,7 @@
 			<a href="https://www.dailynayadiganta.com/">নয়াদিগন্ত</a> |
 			<a href="http://www.enayadiganta.com/">ই</a> |
 			<a href="https://www.dailynayadiganta.com/todays-paper/13">আজকের পত্রিকা</a> |
+			<a href="https://www.dailynayadiganta.com/international/8">আন্তর্জাতিক</a> |
 			<a href="https://www.dailynayadiganta.com/economics/3">অর্থনীতি</a> |
 			<a href="https://www.dailynayadiganta.com/health/60">স্বাস্থ্য</a> |
 			<a href="https://www.youtube.com/c/NayaDigantaOnline/videos">YT</a> |

@@ -69,8 +69,8 @@
 		</li>
 		<li>
 			<a href="https://www.bd-pratidin.com/">বাংলাদেশ প্রতিদিন</a> |
-			<a href="https://www.bd-pratidin.com/printversion">আজকের পত্রিকা</a> |
 			<a href="http://www.ebdpratidin.com/">ই</a> |
+			<a href="https://www.bd-pratidin.com/printversion">আজকের পত্রিকা</a> |
 			<a href="https://www.bd-pratidin.com/international-news">আন্তর্জাতিক</a> |
 			<a href="https://www.bd-pratidin.com/economy">অর্থনীতি</a> |
 			<a href="https://www.bd-pratidin.com/tech-world">টেক ওয়ার্ল্ড</a> |

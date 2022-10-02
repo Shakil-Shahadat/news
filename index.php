@@ -259,6 +259,7 @@
 			<a href="https://www.youtube.com/c/DBCNEWSTV/videos">YT</a> |
 			<a href="https://www.facebook.com/dbcnews.tv">FB 1</a> |
 			<a href="https://www.facebook.com/dbcnews.tv.official">FB 2</a> |
+			<a href="https://www.facebook.com/DbcNewsDaily">FB 3</a>
 		</li>
 		<li>
 			<a href="http://www.ekattor.tv/">Ekattor TV</a> |

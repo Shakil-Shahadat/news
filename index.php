@@ -400,6 +400,7 @@
 			</a>
 		</li>
 		<li>
+			<a href="https://www.ndtv.com/">NDTV.com</a> |
 			<a href="https://www.youtube.com/watch?v=WB-y7_ymPJ4">
 				NDTV YT Live
 			</a> |

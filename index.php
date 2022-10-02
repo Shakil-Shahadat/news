@@ -252,7 +252,7 @@
 			<a href="https://www.youtube.com/channel/UCAz6rveBalVnE6qTmfQnvyQ/videos">TV</a>
 		</li>
 		<li>
-			<a href="https://www.youtube.com/c/channel24online/videos">Channel 24 YT</a>
+			<a href="https://www.youtube.com/c/channel24digital/videos">Channel 24 YT</a>
 		</li>
 		<li>
 			<a href="https://dbcnews.tv/">DBC NEWS</a> |

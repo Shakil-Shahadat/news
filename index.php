@@ -254,7 +254,7 @@
 			<a href="https://www.youtube.com/c/channel24online/videos">Channel 24 YT</a>
 		</li>
 		<li>
-			<a href="https://www.youtube.com/c/DBCNEWSTV/videos">DBC NEWS</a>
+			<a href="https://dbcnews.tv/">DBC NEWS</a>
 		</li>
 		<li>
 			<a href="http://www.ekattor.tv/">Ekattor TV</a> |

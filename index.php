@@ -277,6 +277,7 @@
 		</li>
 		<li>
 			<a href="https://nagorik.com/">Nagorik TV</a> |
+			<a href="https://www.youtube.com/channel/UCig6MgICx3g8p3IHZM45oEA/videos">YT</a> |
 		</li>
 		<li>
 			<a href="https://www.news24bd.tv/">News24</a> |

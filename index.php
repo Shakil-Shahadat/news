@@ -237,6 +237,7 @@
 			<a href="https://www.atnnewstv.com/">ATN News</a> |
 			<a href="https://www.youtube.com/c/atnnewsltd/videos">YT 1</a> |
 			<a href="https://www.youtube.com/c/ATNNewsLive/videos">YT 2</a> |
+			<a href="https://www.youtube.com/channel/UCf_N7CDJqP7wZGagydzjdMQ/videos">Talk show</a> |
 			<a href="https://www.facebook.com/ATNNews">FB</a>
 			<a href="https://www.youtube.com/c/ATNBanglanews/videos">
 				ATN Bangla News

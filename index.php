@@ -234,6 +234,10 @@
 	<h3>TV</h3>
 	<ol>
 		<li>
+			<!-- Website Down -->
+			<a href="https://www.youtube.com/c/ATNBanglanews/videos">ATN Bangla News YT</a> |
+		</li>
+		<li>
 			<a href="https://www.atnnewstv.com/">ATN News</a> |
 			<a href="https://www.youtube.com/c/atnnewsltd/videos">YT 1</a> |
 			<a href="https://www.youtube.com/c/ATNNewsLive/videos">YT 2</a> |

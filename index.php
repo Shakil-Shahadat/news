@@ -236,6 +236,7 @@
 		<li>
 			<!-- Website Down -->
 			<a href="https://www.youtube.com/c/ATNBanglanews/videos">ATN Bangla News YT</a> |
+			<a href="https://www.youtube.com/c/ATNBanglaIslamic/videos">Islamic</a> |
 			<a href="https://www.facebook.com/atnbanglanewsofficial">FB</a>
 		</li>
 		<li>

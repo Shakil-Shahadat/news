@@ -236,6 +236,7 @@
 		<li>
 			<!-- Website Down -->
 			<a href="https://www.youtube.com/c/ATNBanglanews/videos">ATN Bangla News YT</a> |
+			<a href="https://www.facebook.com/atnbanglanewsofficial">FB</a>
 		</li>
 		<li>
 			<a href="https://www.atnnewstv.com/">ATN News</a> |

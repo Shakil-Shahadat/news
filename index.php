@@ -241,9 +241,6 @@
 			<a href="https://www.youtube.com/channel/UClzusVFS5is8WA7aay7Wkuw/videos">Health</a> |
 			<a href="https://www.youtube.com/channel/UCWPg0WFOHAV6kfXTQdOXfOA/videos">Islamic</a> |
 			<a href="https://www.facebook.com/ATNNews">FB</a>
-			<a href="https://www.youtube.com/c/ATNBanglanews/videos">
-				ATN Bangla News
-			</a>
 		</li>
 		<li>
 			<a href="https://www.youtube.com/c/BanglaVisionNEWS/videos">

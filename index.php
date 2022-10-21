@@ -234,6 +234,7 @@
 	<h3>TV</h3>
 	<ol>
 		<li>
+			<a href="https://www.atnnewstv.com/">ATN News</a> |
 			<a href="https://www.youtube.com/c/atnnewsltd/videos">ATN News</a> |
 			<a href="https://www.youtube.com/c/ATNBanglanews/videos">
 				ATN Bangla News

@@ -259,6 +259,7 @@
 		<li>
 			<a href="https://boishakhionline.com/">Boishakhi TV</a> |
 			<a href="https://www.youtube.com/c/BoishakhiHealth/videos">Health</a> |
+			<a href="https://www.youtube.com/c/BoishakhiTVIslam/videos">Islam</a> |
 		</li>
 		<li>
 			<a href="https://www.channelionline.com/">Channel I.com</a> |

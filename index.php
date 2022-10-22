@@ -251,9 +251,7 @@
 		</li>
 		<li>
 			<a href="https://www.bvnews24.com/">BanglaVision NEWS</a> |
-			<a href="https://www.youtube.com/c/BanglaVisionNEWS/videos">
-				BanglaVision NEWS
-			</a>
+			<a href="https://www.youtube.com/c/BanglaVisionNEWS/videos">YT</a>
 		</li>
 		<li>
 			<a href="https://www.channelionline.com/">Channel I.com</a> |

@@ -254,6 +254,7 @@
 			<a href="https://www.youtube.com/c/BanglaVisionNEWS/videos">YT 1</a> |
 			<a href="https://www.youtube.com/c/THEBVNEWS24/videos">YT 2</a> |
 			<a href="https://www.youtube.com/c/BanglaVisionLIVE24/videos">Live</a> |
+			<a href="https://www.facebook.com/banglavision">FB</a>
 		</li>
 		<li>
 			<a href="https://www.channelionline.com/">Channel I.com</a> |

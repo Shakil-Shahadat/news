@@ -272,6 +272,7 @@
 			<a href="https://www.youtube.com/user/shykhseraj/videos">Shykh Seraj</a>
 		</li>
 		<li>
+			<a href="https://www.channel24bd.tv/">Channel 24</a> |
 			<a href="https://www.youtube.com/c/channel24digital/videos">Channel 24 YT</a>
 		</li>
 		<li>

@@ -307,8 +307,7 @@
 			<a href="https://www.news24bd.tv/">News24</a> |
 			<a href="https://www.youtube.com/c/NEWS24TV/videos">YT</a> |
 			<a href="https://www.youtube.com/c/NEWS24TV/featured">Live</a> |
-			<a href="https://www.facebook.com/news24bd.tv">FB</a> |
-			<span>YT Live Available</span>
+			<a href="https://www.facebook.com/news24bd.tv">FB</a>
 		</li>
 		<li>
 			<a href="https://www.ntvbd.com/">NTV</a> |

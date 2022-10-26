@@ -274,6 +274,7 @@
 		<li>
 			<a href="https://www.channel24bd.tv/">Channel 24</a> |
 			<a href="https://www.youtube.com/c/channel24digital/videos">YT</a> |
+			<a href="https://www.channel24bd.tv/live">Live</a> |
 		</li>
 		<li>
 			<a href="https://dbcnews.tv/">DBC NEWS</a> |

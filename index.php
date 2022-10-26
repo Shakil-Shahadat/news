@@ -270,7 +270,6 @@
 			<a href="https://www.youtube.com/channel/UCLuPUjbBSIYmltR5D8Srq7A/videos">Shows</a> |
 			<a href="https://www.youtube.com/channel/UCfNBi-m7X8ntCBbban1QaYw/videos">Multimedia</a> |
 			<a href="https://www.youtube.com/user/shykhseraj/videos">Shykh Seraj</a> |
-			<a href="https://www.youtube.com/channel/UCAz6rveBalVnE6qTmfQnvyQ/videos">TV</a>
 		</li>
 		<li>
 			<a href="https://www.youtube.com/c/channel24digital/videos">Channel 24 YT</a>

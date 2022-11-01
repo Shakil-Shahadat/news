@@ -297,6 +297,7 @@
 	 	<li>
 	 		<a href="https://www.ekushey-tv.com/">Ekushey Television</a> |
 	 		<a href="https://www.youtube.com/c/EkusheyETV/videos">YT 1</a> |
+	 		<a href="https://www.ekushey-tv.com/etvlive/">Live</a> |
 	 	</li>
 		<li>
 			<a href="https://independent24.com/">Independent24</a> |

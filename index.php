@@ -295,7 +295,7 @@
 			<a href="https://www.facebook.com/ekattor.tv">FB</a>
 		</li>
 	 	<li>
-	 		<a href="https://www.ekushey-tv.com/">Ekushey Television</a>
+	 		<a href="https://www.ekushey-tv.com/">Ekushey Television</a> |
 	 	</li>
 		<li>
 			<a href="https://independent24.com/">Independent24</a> |

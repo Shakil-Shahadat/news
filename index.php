@@ -289,9 +289,9 @@
 		</li>
 		<li>
 			<a href="https://ekattor.tv/">Ekattor TV</a> |
-			<a href="https://www.facebook.com/ekattor.tv">FB</a> |
 			<a href="https://www.youtube.com/user/CH71TV/videos">YT</a> |
-			<a href="https://bongobd.com/channel/ekattur-tv">Live</a>
+			<a href="https://bongobd.com/channel/ekattur-tv">Live</a> |
+			<a href="https://www.facebook.com/ekattor.tv">FB</a>
 		</li>
 	 	<li>
 	 		<a href="http://www.ekushey-tv.com/">Ekushey Television</a>

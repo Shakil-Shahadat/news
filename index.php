@@ -299,6 +299,7 @@
 	 		<a href="https://www.youtube.com/c/ETVNewsvideo/videos">YT 1</a> |
 	 		<a href="https://www.youtube.com/c/EkusheyETV/videos">YT 2</a> |
 	 		<a href="https://www.youtube.com/c/EtvTalkShow/videos">Talk Show</a> |
+	 		<a href="https://www.youtube.com/c/ETVReligion/videos">Religion</a> |
 	 		<a href="https://www.ekushey-tv.com/etvlive/">Live</a> |
 	 		<a href="https://www.facebook.com/Ekushey24online/">FB</a>
 	 	</li>

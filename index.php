@@ -309,6 +309,9 @@
 	 		<a href="https://www.youtube.com/user/independent24tube/videos">YT</a>
 		</li>
 		<li>
+			<a href="https://www.jamuna.tv/">Jamuna Television</a> |
+		</li>
+		<li>
 			<a href="https://nagorik.com/">Nagorik TV</a> |
 			<a href="https://www.youtube.com/channel/UCig6MgICx3g8p3IHZM45oEA/videos">YT</a> |
 			<a href="https://www.facebook.com/nagoriktv.media/">FB</a>

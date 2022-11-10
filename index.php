@@ -310,6 +310,7 @@
 		</li>
 		<li>
 			<a href="https://www.jamuna.tv/">Jamuna Television</a> |
+			<a href="https://www.facebook.com/JamunaTelevision">FB</a>
 		</li>
 		<li>
 			<a href="https://nagorik.com/">Nagorik TV</a> |

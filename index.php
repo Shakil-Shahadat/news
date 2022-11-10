@@ -226,7 +226,7 @@
 			<a href="https://thefinancialexpress.com.bd/">The Financial Express</a>
 		</li>
 		<li>
-			<a href="http://www.theindependentbd.com/">The Independent</a>
+			<a href="https://www.theindependentbd.com/">The Independent</a>
 		</li>
 	</ol>
 

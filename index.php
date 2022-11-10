@@ -310,6 +310,7 @@
 		</li>
 		<li>
 			<a href="https://www.jamuna.tv/">Jamuna Television</a> |
+			<a href="https://www.youtube.com/c/JamunaTVbd/streams">Live</a> |
 			<a href="https://www.facebook.com/JamunaTelevision">FB</a>
 		</li>
 		<li>

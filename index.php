@@ -307,7 +307,7 @@
 	 	</li>
 		<li>
 			<a href="https://independent24.com/">Independent24</a> |
-	 		<a href="https://www.youtube.com/user/independent24tube/videos">YT</a>
+	 		<a href="https://www.youtube.com/@IndependentTelevision/videos">YT</a> |
 		</li>
 		<li>
 			<a href="https://www.jamuna.tv/">Jamuna Television</a> |

@@ -311,6 +311,7 @@
 	 		<a href="https://www.youtube.com/c/IndependentBulletin/videos">Bulletin</a> |
 	 		<a href="https://www.youtube.com/c/TaalashOfficial/videos">Taalash</a> |
 	 		<a href="https://www.youtube.com/c/IndependentWorld/videos">World</a> |
+	 		<a href="https://www.facebook.com/independent24Television/">FB</a>
 		</li>
 		<li>
 			<a href="https://www.jamuna.tv/">Jamuna Television</a> |

@@ -337,8 +337,8 @@
 			<a href="https://www.ntvbd.com/video/ntv-news/shondhyar-khobor">সন্ধ্যার খবর</a>
 		</li>
 		<li>
-			<a href="https://www.youtube.com/c/RtvNews/videos">Rtv News YT</a> |
 			<a href="https://www.youtube.com/c/RtvTalkshow/videos">Rtv Talkshow</a>
+			<a href="https://www.youtube.com/c/RtvNews/videos">YT</a> |
 		</li>
 	 	<li>
 	 		<a href="http://www.somoynews.tv/">Somoy TV</a> |

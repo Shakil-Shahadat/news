@@ -310,6 +310,7 @@
 	 		<a href="https://www.youtube.com/@IndependentTelevision/videos">YT</a> |
 	 		<a href="https://www.youtube.com/c/IndependentBulletin/videos">Bulletin</a> |
 	 		<a href="https://www.youtube.com/c/TaalashOfficial/videos">Taalash</a> |
+	 		<a href="https://www.youtube.com/c/IndependentWorld/videos">World</a> |
 		</li>
 		<li>
 			<a href="https://www.jamuna.tv/">Jamuna Television</a> |

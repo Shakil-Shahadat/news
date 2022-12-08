@@ -335,6 +335,7 @@
 		</li>
 		<li>
 			<a href="https://www.ntvbd.com/">NTV</a> |
+			<a href="https://www.youtube.com/@NTVDigital/streams">Live YT</a> |
 			<a href="https://www.ntvbd.com/video/ntv-news/shondhyar-khobor">সন্ধ্যার খবর</a>
 		</li>
 		<li>

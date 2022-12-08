@@ -291,8 +291,8 @@
 		</li>
 		<li>
 			<a href="https://ekattor.tv/">Ekattor TV</a> |
-			<a href="https://www.youtube.com/user/CH71TV/videos">YT</a> |
 			<a href="https://www.youtube.com/channel/UCt1KcT4Z8n0ATpgo8U1lSog/streams">Live 1</a> |
+			<a href="https://www.youtube.com/@EkattorTelevision/videos">YT</a> |
 			<a href="https://bongobd.com/channel/ekattur-tv">Live 2</a> |
 			<a href="https://www.facebook.com/ekattor.tv">FB</a>
 		</li>

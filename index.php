@@ -265,7 +265,7 @@
 		</li>
 		<li>
 			<a href="https://www.channelionline.com/">Channel i</a> |
-			<a href="https://www.youtube.com/channel/UC8NcXMG3A3f2aFQyGTpSNww/videos">YT</a> |
+			<a href="https://www.youtube.com/@ChanneliNews/videos">YT</a> |
 			<a href="https://www.youtube.com/c/ChanneliLive24/videos">Live</a> |
 			<a href="https://www.youtube.com/c/tritiyomatra/videos">Tritiyo Matra</a> |
 			<a href="https://www.youtube.com/channel/UCfNBi-m7X8ntCBbban1QaYw/videos">Multimedia</a> |

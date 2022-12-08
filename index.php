@@ -281,7 +281,7 @@
 		</li>
 		<li>
 			<a href="https://dbcnews.tv/">DBC NEWS</a> |
-			<a href="https://www.youtube.com/c/DBCNEWSTV/videos">YT</a> |
+			<a href="https://www.youtube.com/@DBCNEWSTV/videos">YT</a> |
 			<a href="https://dbcnews.tv/live">Live 1</a> |
 			<a href="https://www.youtube.com/c/DBCNEWSTV/streams">Live 2</a> |
 			<a href="https://www.facebook.com/dbcnews.tv">FB 1</a> |

@@ -274,7 +274,7 @@
 		<li>
 			<a href="https://www.channel24bd.tv/">Channel 24</a> |
 			<a href="https://www.youtube.com/c/Channel24Bulletin/videos">YT 1</a> |
-			<a href="https://www.youtube.com/c/channel24digital/videos">YT 2</a> |
+			<a href="https://www.youtube.com/@channel24digital/videos">YT 2</a> |
 			<a href="https://www.youtube.com/c/channel24digital/streams">Live YT</a> |
 			<a href="https://www.channel24bd.tv/live">Live Web</a> |
 			<a href="https://www.facebook.com/channel24live">FB</a>

@@ -269,7 +269,7 @@
 			<a href="https://www.youtube.com/@ChanneliLive24/streams">Live</a> |
 			<a href="https://www.youtube.com/@tritiyomatra/videos">Tritiyo Matra</a> |
 			<a href="https://www.youtube.com/@ChanneliMultimedia/videos">Multimedia</a> |
-			<a href="https://www.youtube.com/user/shykhseraj/videos">Shykh Seraj</a>
+			<a href="https://www.youtube.com/@shykhseraj/videos">Shykh Seraj</a>
 		</li>
 		<li>
 			<a href="https://www.channel24bd.tv/">Channel 24</a> |

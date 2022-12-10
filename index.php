@@ -56,6 +56,7 @@
 			<a href="https://www.prothomalo.com/opinion">মতামত</a> |
 			<a href="https://www.prothomalo.com/education/science-tech">প্রযুক্তি</a> |
 			<a href="https://www.prothomalo.com/lifestyle">লাইফস্টাইল</a> |
+			<a href="https://en.prothomalo.com/">Eng</a> |
 			<a href="https://www.youtube.com/c/ProthomAlo/videos">YT</a> |
 			<a href="https://www.facebook.com/DailyProthomAlo">FB</a>
 		</li>

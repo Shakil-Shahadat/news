@@ -310,7 +310,7 @@
 		<li>
 			<a href="https://independent24.com/">Independent24</a> |
 	 		<a href="https://www.youtube.com/@IndependentTelevision/videos">YT</a> |
-	 		<a href="https://www.youtube.com/c/IndependentBulletin/videos">Bulletin</a> |
+	 		<a href="https://www.youtube.com/@IndependentBulletin/videos">Bulletin</a> |
 	 		<a href="https://www.youtube.com/c/TaalashOfficial/videos">Taalash</a> |
 	 		<a href="https://www.youtube.com/c/IndependentWorld/videos">World</a> |
 	 		<a href="https://www.facebook.com/independent24Television/">FB</a>

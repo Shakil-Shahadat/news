@@ -215,6 +215,7 @@
 			<a href="https://www.thedailystar.net/">The Daily Star</a> |
 			<a href="https://epaper.thedailystar.net/">e</a> |
 			<a href="https://www.thedailystar.net/todays-news">Today's News</a> |
+			<a href="https://bangla.thedailystar.net/">Bangla</a> |
 			<a href="https://www.thedailystar.net/bytes">Bytes</a> |
 			<a href="https://www.thedailystar.net/tech-startup">Tech &amp; Startup</a> |
 			<a href="https://www.thedailystar.net/toggle">Toggle</a> |

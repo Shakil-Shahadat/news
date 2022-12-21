@@ -397,6 +397,11 @@
 			</a>
 		</li>
 		<li>
+			<a href="https://www.youtube.com/@France24_en/videos">
+				FRANCE 24 English
+			</a>
+		</li>
+		<li>
 			<a href="https://www.project-syndicate.org/">
 				Project Syndicate
 			</a>

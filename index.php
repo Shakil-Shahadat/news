@@ -365,6 +365,7 @@
 		</li>
 		<li>
 			<a href="https://www.bbc.com/">BBC</a> |
+			<a href="https://www.youtube.com/@BBCNews/videos">YT</a> |
 			<a href="https://bongobd.com/channel/bbc-world">Live</a>
 		</li>
 		<li>

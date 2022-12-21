@@ -377,7 +377,7 @@
 		</li>
 		<li>
 			<a href="https://edition.cnn.com/">CNN International</a> |
-			<a href="https://www.youtube.com/user/CNN/videos">YT</a> |
+			<a href="https://www.youtube.com/@CNN/videos">YT</a> |
 			<a href="https://livenewstime.com/headlines/">Live</a>
 		</li>
 		<li>

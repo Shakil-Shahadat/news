@@ -392,6 +392,11 @@
 			<a href="https://foreignpolicy.com/">Foreign Policy</a>
 		</li>
 		<li>
+			<a href="https://www.youtube.com/@FoxNews/videos">
+				Fox News
+			</a>
+		</li>
+		<li>
 			<a href="https://www.project-syndicate.org/">
 				Project Syndicate
 			</a>

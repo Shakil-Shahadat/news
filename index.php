@@ -400,7 +400,7 @@
 			<a href="https://www.reuters.com/">Reuters</a>
 		</li>
 		<li>
-			<a href="https://www.youtube.com/c/RT/videos">RT</a>
+			<a href="https://www.rt.com/">RT</a>
 		</li>
 		<li>
 			<a href="https://www.youtube.com/watch?v=9Auq9mYxFEE">

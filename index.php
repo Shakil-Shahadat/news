@@ -98,7 +98,7 @@
 		</li>
 		<li>
 			<a href="https://www.bbc.com/bengali">বিবিসি বাংলা</a> |
-			<a href="https://www.youtube.com/c/BBCBangla/videos">YT</a> |
+			<a href="https://www.youtube.com/@BBCBangla/videos">YT</a> |
 			<a href="https://www.facebook.com/BBCBengaliService">FB</a>
 		</li>
 		<li>

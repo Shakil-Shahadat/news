@@ -11,18 +11,6 @@
 	<h3>বাংলা ( গুরুত্বপূর্ন )</h3>
 	<ol>
 		<li>
-			<a href="https://www.ittefaq.com.bd/">ইত্তেফাক</a> |
-			<a href="https://epaper.ittefaq.com.bd/">ই</a> |
-			<a href="https://www.ittefaq.com.bd/latest">সর্বশেষ</a> |
-			<a href="https://www.ittefaq.com.bd/world-news">আন্তর্জাতিক</a> |
-			<a href="https://www.ittefaq.com.bd/business">বাণিজ্য</a> |
-			<a href="https://www.ittefaq.com.bd/opinion">মতামত</a> |
-			<a href="https://www.ittefaq.com.bd/tech">টেক</a> |
-			<a href="https://www.ittefaq.com.bd/health">স্বাস্থ্য</a> |
-			<a href="https://www.ittefaq.com.bd/lifestyle">লাইফস্টাইল</a> |
-			<a href="https://www.facebook.com/dainikIttefaq">FB</a>
-		</li>
-		<li>
 			<a href="https://www.kalerkantho.com/">কালের কণ্ঠ</a> |
 			<a href="http://www.ekalerkantho.com/">ই</a> |
 			<a href="https://www.kalerkantho.com/print-edition/">আজকের পত্রিকা</a> |
@@ -149,6 +137,18 @@
 	<ol>
 		<li>
 			<a href="https://www.amadershomoy.com/">আমাদের সময়</a>
+		</li>
+		<li>
+			<a href="https://www.ittefaq.com.bd/">ইত্তেফাক</a> |
+			<a href="https://epaper.ittefaq.com.bd/">ই</a> |
+			<a href="https://www.ittefaq.com.bd/latest">সর্বশেষ</a> |
+			<a href="https://www.ittefaq.com.bd/world-news">আন্তর্জাতিক</a> |
+			<a href="https://www.ittefaq.com.bd/business">বাণিজ্য</a> |
+			<a href="https://www.ittefaq.com.bd/opinion">মতামত</a> |
+			<a href="https://www.ittefaq.com.bd/tech">টেক</a> |
+			<a href="https://www.ittefaq.com.bd/health">স্বাস্থ্য</a> |
+			<a href="https://www.ittefaq.com.bd/lifestyle">লাইফস্টাইল</a> |
+			<a href="https://www.facebook.com/dainikIttefaq">FB</a>
 		</li>
 		<li>
 			<a href="https://www.dailyinqilab.com/">ইনকিলাব</a> |

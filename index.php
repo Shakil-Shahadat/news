@@ -72,6 +72,7 @@
 			<a href="https://www.banglanews24.com/category/আন্তর্জাতিক/4">আন্তর্জাতিক</a> |
 			<a href="https://banglanews24.com/category/অর্থনীতি-ব্যবসা/3">অর্থনীতি</a> |
 			<a href="https://banglanews24.com/category/মুক্তমত/16">মতামত</a> |
+			<a href="https://www.banglanews24.com/category/স্বাস্থ্য/19">স্বাস্থ্য</a> |
 			<a href="https://banglanews24.com/category/পর্যটন/13">পর্যটন</a> |
 			<a href="https://www.banglanews24.com/category/তথ্যপ্রযুক্তি/7">তথ্যপ্রযুক্তি</a> |
 			<a href="https://www.facebook.com/banglanews24">FB</a>

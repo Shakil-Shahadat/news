@@ -222,6 +222,7 @@
 			<a href="https://www.thedailystar.net/business">Business</a> |
 			<a href="https://www.thedailystar.net/shout">Shout</a> |
 			<a href="https://www.thedailystar.net/entertainment">Entertainment</a> |
+			<a href="https://www.youtube.com/@TheDailyStarNews/videos">YT</a> |
 			<a href="https://www.facebook.com/dailystarnews">FB</a>
 		</li>
 		<li>

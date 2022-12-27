@@ -229,9 +229,9 @@
 		<li>
 			<a href="https://thefinancialexpress.com.bd/">The Financial Express</a>
 		</li>
-		<li>
+		<!-- <li>
 			<a href="https://www.theindependentbd.com/">The Independent</a>
-		</li>
+		</li> -->
 	</ol>
 
 

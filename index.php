@@ -196,9 +196,6 @@
 	<h3>English ( Local )</h3>
 	<ol>
 		<li>
-			<a href="https://bdnews24.com/">BD News 24</a>
-		</li>
-		<li>
 			<a href="https://www.bssnews.net/">Bangladesh Sangbad Sangstha (BSS)</a>
 		</li>
 		<li>

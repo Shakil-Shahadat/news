@@ -322,7 +322,7 @@
 			<a href="https://www.youtube.com/@JamunaTVbd/videos">YT 1</a> |
 			<a href="https://www.youtube.com/channel/UC9YGC4fleZvHVp1TEiDhu_w/videos">YT 2</a> |
 			<a href="https://www.youtube.com/c/JamunaTVPlus/videos">YT 3</a> |
-			<a href="https://www.youtube.com/c/JamunaTVbd/streams">Live</a> |
+			<a href="https://www.youtube.com/@JamunaTVbd/live">Live YT</a> |
 			<a href="https://www.facebook.com/JamunaTelevision">FB</a>
 		</li>
 		<li>

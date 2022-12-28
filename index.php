@@ -344,7 +344,7 @@
 		<li>
 			<a href="https://www.rtvonline.com/">RTV</a> |
 			<a href="https://www.youtube.com/@RtvNews/videos">YT</a> |
-			<a href="https://www.youtube.com/c/RtvTalkshow/videos">Talkshow</a> |
+			<a href="https://www.youtube.com/@RtvTalkshow/videos">Talkshow</a> |
 		</li>
 	 	<li>
 	 		<a href="http://www.somoynews.tv/">Somoy TV</a> |

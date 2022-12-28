@@ -343,7 +343,7 @@
 		</li>
 		<li>
 			<a href="https://www.rtvonline.com/">RTV</a> |
-			<a href="https://www.youtube.com/c/RtvNews/videos">YT</a> |
+			<a href="https://www.youtube.com/@RtvNews/videos">YT</a> |
 			<a href="https://www.youtube.com/c/RtvTalkshow/videos">Talkshow</a> |
 		</li>
 	 	<li>

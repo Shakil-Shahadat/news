@@ -246,7 +246,7 @@
 		</li>
 		<li>
 			<a href="https://www.atnnewstv.com/">ATN News</a> |
-			<a href="https://www.youtube.com/c/atnnewsltd/videos">YT 1</a> |
+			<a href="https://www.youtube.com/@atnnewsltd/videos">YT 1</a> |
 			<a href="https://www.youtube.com/c/ATNNewsLive/videos">YT 2</a> |
 			<a href="https://www.youtube.com/channel/UCf_N7CDJqP7wZGagydzjdMQ/videos">Talk show</a> |
 			<a href="https://www.youtube.com/channel/UClzusVFS5is8WA7aay7Wkuw/videos">Health</a> |

@@ -257,7 +257,7 @@
 			<a href="https://www.bvnews24.com/">BanglaVision</a> |
 			<a href="https://www.youtube.com/@BanglaVisionNEWS/videos">YT 1</a> |
 			<a href="https://www.youtube.com/@THEBVNEWS24/videos">YT 2</a> |
-			<a href="https://www.youtube.com/c/BanglaVisionLIVE24/videos">Live</a> |
+			<a href="https://www.youtube.com/@banglavisionlive/streams">Live</a> |
 			<a href="https://www.facebook.com/banglavision">FB</a>
 		</li>
 		<li>

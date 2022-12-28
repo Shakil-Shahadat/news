@@ -250,7 +250,7 @@
 			<a href="https://www.youtube.com/@ATNNewsLive/videos">YT 2</a> |
 			<a href="https://www.youtube.com/@atnnewstalkshow2226/videos">Talk show</a> |
 			<a href="https://www.youtube.com/@atnnewshealth5957/videos">Health</a> |
-			<a href="https://www.youtube.com/channel/UCWPg0WFOHAV6kfXTQdOXfOA/videos">Islamic</a> |
+			<a href="https://www.youtube.com/@atnnewsislamic839/videos">Islamic</a> |
 			<a href="https://www.facebook.com/ATNNews">FB</a>
 		</li>
 		<li>

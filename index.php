@@ -239,7 +239,7 @@
 	<ol>
 		<li>
 			<!-- Website Down -->
-			<a href="https://www.youtube.com/c/ATNBanglanews/videos">ATN Bangla News YT</a> |
+			<a href="https://www.youtube.com/@ATNBanglanews/videos">ATN Bangla News YT</a> |
 			<a href="https://www.youtube.com/c/ATNBanglaTalkShow/videos">Talk Show</a> |
 			<a href="https://www.youtube.com/c/ATNBanglaIslamic/videos">Islamic</a> |
 			<a href="https://www.facebook.com/atnbanglanewsofficial">FB</a>

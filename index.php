@@ -295,7 +295,7 @@
 		<li>
 			<a href="https://ekattor.tv/">Ekattor TV</a> |
 			<a href="https://www.youtube.com/@EkattorTelevision/videos">YT</a> |
-			<a href="https://www.youtube.com/@ekattorplus6015/streams">Live YT</a> |
+			<a href="https://www.youtube.com/@ekattorplus6015/live">Live YT</a> |
 			<a href="https://bongobd.com/channel/ekattor-tv">Live Bongo</a> |
 			<a href="https://www.facebook.com/ekattor.tv">FB</a>
 		</li>

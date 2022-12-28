@@ -348,7 +348,7 @@
 		</li>
 	 	<li>
 	 		<a href="https://www.somoynews.tv/">Somoy TV</a> |
-	 		<a href="https://www.youtube.com/@somoynews360/videos">YT</a>
+	 		<a href="https://www.youtube.com/@somoynews360/videos">YT</a> |
 	 		<a href="https://www.youtube.com/watch?v=KgiwN7ddb2U">Live YT</a> |
 	 		<a href="https://bongobd.com/channel/somoy-tv">Live ( Bongo )</a> |
 	 	</li>

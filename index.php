@@ -320,8 +320,8 @@
 		<li>
 			<a href="https://www.jamuna.tv/">Jamuna Television</a> |
 			<a href="https://www.youtube.com/@JamunaTVbd/videos">YT 1</a> |
+			<a href="https://www.youtube.com/@JamunaTVPlus/videos">YT 2</a> |
 			<a href="https://www.youtube.com/@jamunatvbulletin7322/videos">Bulletin</a> |
-			<a href="https://www.youtube.com/c/JamunaTVPlus/videos">YT 3</a> |
 			<a href="https://www.youtube.com/@JamunaTVbd/live">Live YT</a> |
 			<a href="https://www.facebook.com/JamunaTelevision">FB</a>
 		</li>

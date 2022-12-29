@@ -399,6 +399,7 @@
 		</li>
 		<li>
 			<a href="https://www.youtube.com/@FoxNews/videos">Fox News</a> |
+			<a href="https://livenewstime.com/fox-news">Live Web Ext</a>
 		</li>
 		<li>
 			<a href="https://www.youtube.com/@France24_en/videos">

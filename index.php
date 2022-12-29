@@ -375,7 +375,7 @@
 			</a>
 		</li>
 		<li>
-			<a href="https://www.youtube.com/c/CBSNews/videos">CBS News</a>
+			<a href="https://www.youtube.com/@CBSNews/videos">CBS News</a>
 		</li>
 		<li>
 			<a href="https://www.youtube.com/@ChannelsTelevision/videos">

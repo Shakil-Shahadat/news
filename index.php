@@ -389,6 +389,7 @@
 		</li>
 		<li>
 			<a href="https://www.youtube.com/@dwnews/videos">DW News</a> |
+			<a href="https://www.youtube.com/@dwnews/live">Live YT</a>
 		</li>
 		<li>
 			<a href="https://www.forbes.com/">Forbes</a> |

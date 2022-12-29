@@ -370,7 +370,7 @@
 			<a href="https://bongobd.com/channel/bbc-world">Live</a>
 		</li>
 		<li>
-			<a href="https://www.youtube.com/watch?v=dp8PhLsUcFE">
+			<a href="https://www.youtube.com/bloomberg/live">
 				Bloomberg Global Financial News YT Live
 			</a>
 		</li>

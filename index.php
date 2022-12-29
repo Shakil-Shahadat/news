@@ -433,7 +433,7 @@
 			<a href="https://www.youtube.com/@TheEconomist/videos">YT</a>
 		</li>
 		<li>
-			<a href="https://www.youtube.com/c/TheGeopoliticsInConflictShow/videos">
+			<a href="https://www.youtube.com/@GeopoliticsInConflict/videos">
 				The Geopolitics In Conflict Show
 			</a>
 		</li>

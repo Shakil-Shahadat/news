@@ -385,7 +385,7 @@
 		<li>
 			<a href="https://edition.cnn.com/">CNN International</a> |
 			<a href="https://www.youtube.com/@CNN/videos">YT</a> |
-			<a href="https://livenewstime.com/headlines/">Live</a>
+			<a href="https://livenewstime.com/cnn-news/">Live Web Ext</a>
 		</li>
 		<li>
 			<a href="https://www.youtube.com/@dwnews/videos">DW News</a> |

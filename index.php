@@ -362,7 +362,7 @@
 		</li>
 		<li>
 			<a href="https://www.aljazeera.com/">Al Jazeera</a> |
-			<a href="https://www.youtube.com/watch?v=-upyPouRrB8">YT Live</a>
+			<a href="https://www.youtube.com/@aljazeeraenglish/live">Live YT</a>
 		</li>
 		<li>
 			<a href="https://www.bbc.com/">BBC</a> |

@@ -424,7 +424,7 @@
 			</a>
 		</li>
 		<li>
-			<a href="https://www.youtube.com/c/SouthChinaMorningPost/videos">
+			<a href="https://www.youtube.com/@SouthChinaMorningPost/videos">
 				South China Morning Post
 			</a>
 		</li>

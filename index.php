@@ -393,7 +393,7 @@
 		</li>
 		<li>
 			<a href="https://www.forbes.com/">Forbes</a> |
-			<a href="https://www.youtube.com/c/Forbes/videos">YT</a>
+			<a href="https://www.youtube.com/@Forbes/videos">YT</a>
 		</li>
 		<li>
 			<a href="https://foreignpolicy.com/">Foreign Policy</a>

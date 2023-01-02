@@ -519,6 +519,7 @@
 			<a href="https://www.youtube.com/@WION/videos">YT</a> |
 			<a href="https://www.youtube.com/wion/live">Live YT</a> |
 			<a href="https://www.wionews.com/live-tv">Live Web</a> |
+			<a href="https://www.facebook.com/WIONews/">FB</a>
 		</li>
 	</ol>
 

@@ -479,7 +479,7 @@
 		</li>
 		<li>
 			<a href="https://www.ndtv.com/">NDTV.com</a> |
-			<a href="https://www.youtube.com/watch?v=WB-y7_ymPJ4">
+			<a href="https://www.youtube.com/@NDTV/live">
 				NDTV YT Live
 			</a> |
 			<a href="https://www.youtube.com/watch?v=MN8p-Vrn6G0">

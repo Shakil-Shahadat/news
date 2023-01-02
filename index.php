@@ -460,7 +460,7 @@
 			</a>
 		</li>
 		<li>
-			<a href="https://www.youtube.com/watch?v=zGpJ1NgRXoI">
+			<a href="https://www.youtube.com/@DDIndia/live">
 				DD India YT Live
 			</a> |
 			<a href="https://www.youtube.com/watch?v=8dC0vuugL9w">

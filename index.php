@@ -515,9 +515,7 @@
 			<a href="https://www.timesofassam.com/">Times of Assam</a>
 		</li>
 		<li>
-			<a href="https://www.youtube.com/c/WION/videos">
-				WION
-			</a>
+			<a href="https://www.youtube.com/@WION/videos">YT</a> |
 		</li>
 	</ol>
 

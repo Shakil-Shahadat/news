@@ -506,7 +506,7 @@
 		</li>
 		<li>
 			<a href="https://www.thehindu.com/">The Hindu</a> |
-			<a href="https://www.youtube.com/c/TheHinduOfficial/videos">YT</a>
+			<a href="https://www.youtube.com/@TheHinduOfficial/videos">YT</a>
 		</li>
 		<li>
 			<a href="https://thewire.in/">The Wire</a>

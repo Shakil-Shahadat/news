@@ -473,7 +473,7 @@
 			</a>
 		</li>
 		<li>
-			<a href="https://www.youtube.com/watch?v=lyeyoqwXm5o">
+			<a href="https://www.youtube.com/@indiatoday/live">
 				India Today YT Live
 			</a>
 		</li>

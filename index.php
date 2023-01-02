@@ -495,7 +495,7 @@
 			<a href="https://theprint.in/">
 				ThePrint
 			</a> |
-			<a href="https://www.youtube.com/c/ThePrintIndia/videos">
+			<a href="https://www.youtube.com/@ThePrintIndia/videos">
 				YT
 			</a>
 		</li>

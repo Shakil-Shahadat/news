@@ -527,7 +527,7 @@
 	<h3>Pakistan</h3>
 	<ol>
 		<li>
-			<a href="https://www.youtube.com/c/ArynewsTvofficial">
+			<a href="https://www.youtube.com/@ArynewsTvofficial/videos">
 				ARY News
 			</a> | YT Live Available
 		</li>

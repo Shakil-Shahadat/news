@@ -487,7 +487,7 @@
 			</a>
 		</li>
 		<li>
-			<a href="https://www.youtube.com/watch?v=uQHvbC5WMRw">
+			<a href="https://www.youtube.com/@news18India/live">
 				News18 India YT Live
 			</a>
 		</li>

@@ -482,7 +482,7 @@
 			<a href="https://www.youtube.com/@NDTV/live">
 				NDTV YT Live
 			</a> |
-			<a href="https://www.youtube.com/watch?v=MN8p-Vrn6G0">
+			<a href="https://www.youtube.com/ndtvindia/live">
 				NDTV India YT Live
 			</a>
 		</li>

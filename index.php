@@ -463,7 +463,7 @@
 			<a href="https://www.youtube.com/@DDIndia/live">
 				DD India YT Live
 			</a> |
-			<a href="https://www.youtube.com/watch?v=8dC0vuugL9w">
+			<a href="https://www.youtube.com/@ddnews/live">
 				DD News YT Live
 			</a>
 		</li>

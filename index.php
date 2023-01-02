@@ -529,7 +529,8 @@
 		<li>
 			<a href="https://www.youtube.com/@ArynewsTvofficial/videos">
 				ARY News
-			</a> | YT Live Available
+			</a> |
+			<a href="https://www.youtube.com/c/ArynewsTvofficial/live">Live YT</a>
 		</li>
 		<li>
 			<a href="https://www.youtube.com/channel/UCz2yxQJZgiB_5elTzqV7FiQ">

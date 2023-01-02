@@ -500,7 +500,7 @@
 			</a>
 		</li>
 		<li>
-			<a href="https://www.youtube.com/c/thedeshbhakt/videos">
+			<a href="https://www.youtube.com/@thedeshbhakt/videos">
 				The Deshbhakt
 			</a>
 		</li>

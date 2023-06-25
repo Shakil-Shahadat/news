@@ -16,6 +16,11 @@
 				কালের কণ্ঠ
 			</a>
 		</li>
+		<li>
+			<a href="https://www.enayadiganta.com/">
+				নয়াদিগন্ত
+			</a>
+		</li>
 	</ol>
 
 

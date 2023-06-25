@@ -44,7 +44,7 @@
 		</li>
 		<li>
 			<a href="https://www.dailynayadiganta.com/">নয়াদিগন্ত</a> |
-			<a href="http://www.enayadiganta.com/">ই</a> |
+			<a href="https://www.enayadiganta.com/">ই</a> |
 			<a href="https://www.dailynayadiganta.com/todays-paper/13">আজকের পত্রিকা</a> |
 			<a href="https://www.dailynayadiganta.com/international/8">আন্তর্জাতিক</a> |
 			<a href="https://www.dailynayadiganta.com/sub-editorial/9">উপসম্পাদকীয়</a> |

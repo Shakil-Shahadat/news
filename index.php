@@ -11,6 +11,11 @@
 
 	<h3>ই-পেপার</h3>
 	<ol>
+		<li>
+			<a href="http://www.ekalerkantho.com/">
+				কালের কণ্ঠ
+			</a>
+		</li>
 	</ol>
 
 

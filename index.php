@@ -53,6 +53,9 @@
 			<a href="https://www.facebook.com/dw.bengali/">FB</a>
 		</li>
 		<li>
+			<!--
+				OK
+			-->
 			<a href="https://www.dailynayadiganta.com/">নয়াদিগন্ত</a> |
 			<a href="https://www.enayadiganta.com/">ই</a> |
 			<a href="https://www.dailynayadiganta.com/todays-paper/13">আজকের পত্রিকা</a> |

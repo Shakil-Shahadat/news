@@ -35,6 +35,7 @@
 			<a href="https://www.kalerkantho.com/online/info-tech">তথ্যপ্রযুক্তি</a> |
 			<a href="https://www.kalerkantho.com/online/Islamic-lifestylie">ইসলাম</a> |
 			<a href="https://www.kalerkantho.com/feature/doctor-asen">স্বাস্থ্য</a> |
+			<a href="https://www.kalerkantho.com/online/lifestyle">জীবনযাপন</a> |
 			<a href="https://www.kalerkantho.com/english">Eng</a> |
 			<a href="https://www.facebook.com/kalerkantho">FB</a>
 		</li>

@@ -27,6 +27,11 @@
 	<h3>বাংলা ( গুরুত্বপূর্ন )</h3>
 	<ol>
 		<li>
+			<!--
+				OK
+				আজকের পত্রিকা পাওয়া যায়নি
+				Youtube not active
+			-->
 			<a href="https://www.kalerkantho.com/">কালের কণ্ঠ</a> |
 			<a href="http://www.ekalerkantho.com/">ই</a> |
 			<a href="https://www.kalerkantho.com/online/world/">আন্তর্জাতিক</a> |

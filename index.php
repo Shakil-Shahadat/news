@@ -40,6 +40,7 @@
 		</li>
 		<li>
 			<a href="https://www.dw.com/bn/বিষয়/s-11929">ডয়েচে ভেলে</a> |
+			<a href="https://www.youtube.com/@dwbengali/videos">YT</a> |
 			<a href="https://www.facebook.com/dw.bengali/">FB</a>
 		</li>
 		<li>

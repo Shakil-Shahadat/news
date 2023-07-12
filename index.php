@@ -21,6 +21,11 @@
 				নয়াদিগন্ত
 			</a>
 		</li>
+		<li>
+			<a href="https://epaper.prothomalo.com/">
+				প্রথম আলো
+			</a>
+		</li>
 	</ol>
 
 

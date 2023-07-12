@@ -44,6 +44,9 @@
 			<a href="https://www.facebook.com/kalerkantho">FB</a>
 		</li>
 		<li>
+			<!--
+				OK
+			-->
 			<a href="https://www.dw.com/bn/বিষয়/s-11929">ডয়েচে ভেলে</a> |
 			<a href="https://www.youtube.com/@dwbengali/videos">YT</a> |
 			<a href="https://www.youtube.com/@DWKhaledMuhiuddinJanteChay">খালেদ মুহিউদ্দীন জানতে চায়</a> |

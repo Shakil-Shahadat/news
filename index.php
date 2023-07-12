@@ -31,7 +31,6 @@
 			<a href="http://www.ekalerkantho.com/">ই</a> |
 			<a href="https://www.kalerkantho.com/online/world/">আন্তর্জাতিক</a> |
 			<a href="https://www.kalerkantho.com/online/business">বাণিজ্য</a> |
-			<a href="https://www.kalerkantho.com/print-edition/sub-editorial">মতামত</a> |
 			<a href="https://www.kalerkantho.com/online/info-tech">তথ্যপ্রযুক্তি</a> |
 			<a href="https://www.kalerkantho.com/online/Islamic-lifestylie">ইসলাম</a> |
 			<a href="https://www.kalerkantho.com/feature/doctor-asen">স্বাস্থ্য</a> |

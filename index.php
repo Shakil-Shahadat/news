@@ -282,6 +282,12 @@
 			<a href="https://www.youtube.com/@ATNBanglaTalkShow/videos">Talk Show</a> |
 			<a href="https://www.youtube.com/@ATNBanglaIslamic/videos">Islamic</a> |
 			<a href="https://www.facebook.com/atnbanglanewsofficial">FB</a>
+			<!--
+				<a href="https://www.facebook.com/ATNbanglaEntertainment/">ATN Bangla Entertainment</a>
+				<a href="https://www.facebook.com/atnbanglaislamic/">ATN Bangla Islamic</a>
+				<a href="https://www.facebook.com/ATNbanglaLimited/">ATN Bangla</a>
+				<a href="https://www.facebook.com/atnbanglalive">Dead</a>
+			-->
 		</li>
 		<li>
 			<a href="https://www.atnnewstv.com/">ATN News</a> |

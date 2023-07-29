@@ -276,7 +276,7 @@
 	<h3>TV</h3>
 	<ol>
 		<li>
-			<!-- Website Down -->
+			<a href="https://atnbanglaonline.tv/">ATN Bangla</a> |
 			<a href="https://www.youtube.com/@ATNBanglanews/videos">YT</a> |
 			<a href="https://www.youtube.com/@ATNBanglaTalkShow/videos">Talk Show</a> |
 			<a href="https://www.youtube.com/@ATNBanglaIslamic/videos">Islamic</a> |

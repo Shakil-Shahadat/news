@@ -278,6 +278,7 @@
 		<li>
 			<a href="https://atnbanglaonline.tv/">ATN Bangla</a> |
 			<a href="https://www.youtube.com/@ATNBanglanews/videos">YT</a> |
+			<a href="https://atnbanglaonline.tv/?page_id=673">Live Web</a> |
 			<a href="https://www.youtube.com/@ATNBanglaTalkShow/videos">Talk Show</a> |
 			<a href="https://www.youtube.com/@ATNBanglaIslamic/videos">Islamic</a> |
 			<a href="https://www.facebook.com/atnbanglanewsofficial">FB</a>

@@ -14,6 +14,9 @@
 		<li>
 			<a href="https://www.prothomalo.com/">প্রথম আলো</a>
 		</li>
+		<li>
+			<a href="https://www.bbc.com/bengali">বিবিসি বাংলা</a>
+		</li>
 	</ol>
 
 	<h3>ই-পেপার</h3>

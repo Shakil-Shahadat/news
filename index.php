@@ -20,6 +20,9 @@
 		<li>
 			<a href="https://mzamin.com/">মানবজমিন</a>
 		</li>
+		<li>
+			<a href="https://www.jugantor.com/">যুগান্তর</a>
+		</li>
 	</ol>
 
 	<h3>ই-পেপার</h3>

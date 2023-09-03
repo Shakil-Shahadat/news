@@ -17,6 +17,9 @@
 		<li>
 			<a href="https://www.bbc.com/bengali">বিবিসি বাংলা</a>
 		</li>
+		<li>
+			<a href="https://mzamin.com/">মানবজমিন</a>
+		</li>
 	</ol>
 
 	<h3>ই-পেপার</h3>

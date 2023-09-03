@@ -23,6 +23,9 @@
 		<li>
 			<a href="https://www.jugantor.com/">যুগান্তর</a>
 		</li>
+		<li>
+			<a href="https://www.thedailystar.net/">The Daily Star</a>
+		</li>
 	</ol>
 
 	<h3>ই-পেপার</h3>

@@ -307,17 +307,19 @@
 		</li>
 		<li>
 			<a href="https://www.thedailystar.net/">The Daily Star</a> &nbsp;
-			<a href="https://epaper.thedailystar.net/">e</a> &nbsp;
-			<a href="https://www.thedailystar.net/todays-news">Today's News</a> &nbsp;
-			<a href="https://bangla.thedailystar.net/">Bangla</a> &nbsp;
-			<a href="https://www.thedailystar.net/bytes">Bytes</a> &nbsp;
-			<a href="https://www.thedailystar.net/tech-startup">Tech &amp; Startup</a> &nbsp;
-			<a href="https://www.thedailystar.net/toggle">Toggle</a> &nbsp;
-			<a href="https://www.thedailystar.net/business">Business</a> &nbsp;
-			<a href="https://www.thedailystar.net/shout">Shout</a> &nbsp;
-			<a href="https://www.thedailystar.net/entertainment">Entertainment</a> &nbsp;
-			<a href="https://www.youtube.com/@TheDailyStarNews/videos">YT</a> &nbsp;
-			<a href="https://www.facebook.com/dailystarnews">FB</a>
+			<span>
+				<a href="https://epaper.thedailystar.net/">e</a> &nbsp;
+				<a href="https://www.thedailystar.net/todays-news">Today's News</a> &nbsp;
+				<a href="https://bangla.thedailystar.net/">Bangla</a> &nbsp;
+				<a href="https://www.thedailystar.net/bytes">Bytes</a> &nbsp;
+				<a href="https://www.thedailystar.net/tech-startup">Tech &amp; Startup</a> &nbsp;
+				<a href="https://www.thedailystar.net/toggle">Toggle</a> &nbsp;
+				<a href="https://www.thedailystar.net/business">Business</a> &nbsp;
+				<a href="https://www.thedailystar.net/shout">Shout</a> &nbsp;
+				<a href="https://www.thedailystar.net/entertainment">Entertainment</a> &nbsp;
+				<a href="https://www.youtube.com/@TheDailyStarNews/videos">YT</a> &nbsp;
+				<a href="https://www.facebook.com/dailystarnews">FB</a>
+			</span>
 		</li>
 		<li>
 			<a href="https://thefinancialexpress.com.bd/">The Financial Express</a>

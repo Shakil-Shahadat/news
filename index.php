@@ -61,6 +61,7 @@
 				<a href="https://www.kalerkantho.com/feature/doctor-asen">স্বাস্থ্য</a> &nbsp;
 				<a href="https://www.kalerkantho.com/online/lifestyle">জীবনযাপন</a> &nbsp;
 				<a href="https://www.kalerkantho.com/english">Eng</a> &nbsp;
+				<a href="https://www.youtube.com/@KalerKanthoChannel/videos">YT</a> &nbsp;
 				<a href="https://www.facebook.com/kalerkantho">FB</a>
 			</span>
 			<!--

@@ -147,8 +147,10 @@
 		</li>
 		<li>
 			<a href="https://www.bbc.com/bengali">বিবিসি বাংলা</a> &nbsp;
-			<a href="https://www.youtube.com/@BBCBangla/videos">YT</a> &nbsp;
-			<a href="https://www.facebook.com/BBCBengaliService">FB</a>
+			<span>
+				<a href="https://www.youtube.com/@BBCBangla/videos">YT</a> &nbsp;
+				<a href="https://www.facebook.com/BBCBengaliService">FB</a>
+			</span>
 		</li>
 		<li>
 			<a href="https://mzamin.com/">মানবজমিন</a> |

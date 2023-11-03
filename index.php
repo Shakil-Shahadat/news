@@ -229,15 +229,17 @@
 		</li>
 		<li>
 			<a href="https://www.ittefaq.com.bd/">ইত্তেফাক</a> &nbsp;
-			<a href="https://epaper.ittefaq.com.bd/">ই</a> &nbsp;
-			<a href="https://www.ittefaq.com.bd/latest">সর্বশেষ</a> &nbsp;
-			<a href="https://www.ittefaq.com.bd/world-news">আন্তর্জাতিক</a> &nbsp;
-			<a href="https://www.ittefaq.com.bd/business">বাণিজ্য</a> &nbsp;
-			<a href="https://www.ittefaq.com.bd/opinion">মতামত</a> &nbsp;
-			<a href="https://www.ittefaq.com.bd/tech">টেক</a> &nbsp;
-			<a href="https://www.ittefaq.com.bd/health">স্বাস্থ্য</a> &nbsp;
-			<a href="https://www.ittefaq.com.bd/lifestyle">লাইফস্টাইল</a> &nbsp;
-			<a href="https://www.facebook.com/dainikIttefaq">FB</a>
+			<span>
+				<a href="https://epaper.ittefaq.com.bd/">ই</a> &nbsp;
+				<a href="https://www.ittefaq.com.bd/latest">সর্বশেষ</a> &nbsp;
+				<a href="https://www.ittefaq.com.bd/world-news">আন্তর্জাতিক</a> &nbsp;
+				<a href="https://www.ittefaq.com.bd/business">বাণিজ্য</a> &nbsp;
+				<a href="https://www.ittefaq.com.bd/opinion">মতামত</a> &nbsp;
+				<a href="https://www.ittefaq.com.bd/tech">টেক</a> &nbsp;
+				<a href="https://www.ittefaq.com.bd/health">স্বাস্থ্য</a> &nbsp;
+				<a href="https://www.ittefaq.com.bd/lifestyle">লাইফস্টাইল</a> &nbsp;
+				<a href="https://www.facebook.com/dainikIttefaq">FB</a>
+			</span>
 		</li>
 		<li>
 			<a href="https://www.dailyinqilab.com/">ইনকিলাব</a> |

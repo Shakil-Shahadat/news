@@ -685,7 +685,7 @@
 	for ( e of document.querySelectorAll( 'li' ) )
 	{
 		e.addEventListener( 'click', function() {
-			if ( this.childNodes[ 3 ].style.display === 'none' )
+			if ( this.childNodes[ 3 ].style.display === 'none' || this.childNodes[ 3 ].style.display === '' )
 			{
 				this.childNodes[ 3 ].style.display = 'inline';
 			}

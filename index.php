@@ -70,13 +70,13 @@
 			-->
 		</li>
 		<li>
-			<!--
-				OK
-			-->
 			<a href="https://www.dw.com/bn/বিষয়/s-11929">ডয়েচে ভেলে</a> &nbsp;
 			<a href="https://www.youtube.com/@dwbengali/videos">YT</a> &nbsp;
 			<a href="https://www.youtube.com/@DWKhaledMuhiuddinJanteChay">খালেদ মুহিউদ্দীন জানতে চায়</a> &nbsp;
 			<a href="https://www.facebook.com/dw.bengali/">FB</a>
+			<!--
+				OK
+			-->
 		</li>
 		<li>
 			<!--

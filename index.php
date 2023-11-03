@@ -301,7 +301,9 @@
 		</li>
 		<li>
 			<a href="https://tbsnews.net/">The Business Standard</a> &nbsp;
-			<a href="https://tbsnews.net/epaper/">e</a>
+			<span>
+				<a href="https://tbsnews.net/epaper/">e</a>
+			</span>
 		</li>
 		<li>
 			<a href="https://www.thedailystar.net/">The Daily Star</a> |

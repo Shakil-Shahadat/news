@@ -67,7 +67,6 @@
 			<!--
 				OK
 				আজকের পত্রিকা পাওয়া যায়নি
-				YouTube not active
 			-->
 		</li>
 		<li>

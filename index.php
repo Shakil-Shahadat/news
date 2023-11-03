@@ -273,9 +273,11 @@
 		</li>
 		<li>
 			<a href="https://www.bhorerkagoj.com/">ভোরের কাগজ</a> &nbsp;
-			<a href="https://www.bhorerkagoj.com/print-edition/">আজকের পত্রিকা</a> &nbsp;
-			<a href="https://ebhorerkagoj.com/">ই</a> &nbsp;
-			<a href="https://www.facebook.com/bhorerkagoj.live/">FB</a>
+			<span>
+				<a href="https://www.bhorerkagoj.com/print-edition/">আজকের পত্রিকা</a> &nbsp;
+				<a href="https://ebhorerkagoj.com/">ই</a> &nbsp;
+				<a href="https://www.facebook.com/bhorerkagoj.live/">FB</a>
+			</span>
 		</li>
 		<li>
 			<a href="https://www.somoyerkonthosor.com/">সময়ের কন্ঠস্বর</a>

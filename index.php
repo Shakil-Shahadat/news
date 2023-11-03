@@ -243,10 +243,12 @@
 		</li>
 		<li>
 			<a href="https://www.dailyinqilab.com/">ইনকিলাব</a> &nbsp;
-			<a href="https://www.dailyinqilab.com/epaper/">ই</a> &nbsp;
-			<a href="https://www.dailyinqilab.com/todaysnewspaper/">আজকের পত্রিকা</a> &nbsp;
-			<a href="https://www.dailyinqilab.com/newscategory/international/">আন্তর্জাতিক</a> &nbsp;
-			<a href="https://www.facebook.com/DailyInqilabOnline/">FB</a>
+			<span>
+				<a href="https://www.dailyinqilab.com/epaper/">ই</a> &nbsp;
+				<a href="https://www.dailyinqilab.com/todaysnewspaper/">আজকের পত্রিকা</a> &nbsp;
+				<a href="https://www.dailyinqilab.com/newscategory/international/">আন্তর্জাতিক</a> &nbsp;
+				<a href="https://www.facebook.com/DailyInqilabOnline/">FB</a>
+			</span>
 		</li>
 		<li>
 			<a href="https://akhonsamoy.com/">এখন সময়</a>

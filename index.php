@@ -121,6 +121,7 @@
 				<a href="https://www.banglatribune.com/columns">মতামত</a> &nbsp;
 				<a href="https://www.banglatribune.com/business">বিজনেস</a> &nbsp;
 				<a href="https://www.banglatribune.com/tech-and-gadget">টেক</a> &nbsp;
+				<a href="https://www.youtube.com/@BanglaTribune/videos">YT</a> &nbsp;
 				<a href="https://www.facebook.com/BanglaTribuneOnline">FB</a>
 			</span>
 		</li>

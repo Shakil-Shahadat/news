@@ -146,8 +146,8 @@
 			<a href="https://www.facebook.com/bdnews24/">FB</a>
 		</li>
 		<li>
-			<a href="https://www.bbc.com/bengali">বিবিসি বাংলা</a> |
-			<a href="https://www.youtube.com/@BBCBangla/videos">YT</a> |
+			<a href="https://www.bbc.com/bengali">বিবিসি বাংলা</a> &nbsp;
+			<a href="https://www.youtube.com/@BBCBangla/videos">YT</a> &nbsp;
 			<a href="https://www.facebook.com/BBCBengaliService">FB</a>
 		</li>
 		<li>

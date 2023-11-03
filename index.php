@@ -648,6 +648,18 @@
 <script>
 // Add target="_blank" to all anchor tags, v 1.05
 for ( x of document.querySelectorAll( 'a' ) ) x.setAttribute( 'target', '_blank' );
+
+	for ( e of document.querySelectorAll( 'li' ) )
+	{
+		e.addEventListener( 'click', function() {
+			if ( this.childNodes[ 3 ].style.display === 'none' )
+			{
+				this.childNodes[ 3 ].style.display = 'inline';
+			}
+			else this.childNodes[ 3 ].style.display = 'none';
+		});
+	}
+
 </script>
 </body>
 </html>

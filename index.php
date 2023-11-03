@@ -82,17 +82,19 @@
 		</li>
 		<li>
 			<a href="https://www.dailynayadiganta.com/">নয়াদিগন্ত</a> &nbsp;
-			<a href="https://www.enayadiganta.com/">ই</a> &nbsp;
-			<a href="https://www.dailynayadiganta.com/todays-paper/13">আজকের পত্রিকা</a> &nbsp;
-			<a href="https://www.dailynayadiganta.com/international/8">আন্তর্জাতিক</a> &nbsp;
-			<a href="https://www.dailynayadiganta.com/sub-editorial/9">উপসম্পাদকীয়</a> &nbsp;
-			<a href="https://www.dailynayadiganta.com/opinion/10">মতামত</a> &nbsp;
-			<a href="https://www.dailynayadiganta.com/economics/3">অর্থনীতি</a> &nbsp;
-			<a href="https://www.dailynayadiganta.com/health/60">স্বাস্থ্য</a> &nbsp;
-			<a href="https://www.dailynayadiganta.com/lifestyle/15">লাইফস্টাইল</a> &nbsp;
-			<a href="http://www.ennayadiganta.com/">Eng</a> &nbsp;
-			<a href="https://www.youtube.com/@NayaDigantaOnline/videos">YT</a> &nbsp;
-			<a href="https://www.facebook.com/nayadiganta">FB</a>
+			<span>
+				<a href="https://www.enayadiganta.com/">ই</a> &nbsp;
+				<a href="https://www.dailynayadiganta.com/todays-paper/13">আজকের পত্রিকা</a> &nbsp;
+				<a href="https://www.dailynayadiganta.com/international/8">আন্তর্জাতিক</a> &nbsp;
+				<a href="https://www.dailynayadiganta.com/sub-editorial/9">উপসম্পাদকীয়</a> &nbsp;
+				<a href="https://www.dailynayadiganta.com/opinion/10">মতামত</a> &nbsp;
+				<a href="https://www.dailynayadiganta.com/economics/3">অর্থনীতি</a> &nbsp;
+				<a href="https://www.dailynayadiganta.com/health/60">স্বাস্থ্য</a> &nbsp;
+				<a href="https://www.dailynayadiganta.com/lifestyle/15">লাইফস্টাইল</a> &nbsp;
+				<a href="http://www.ennayadiganta.com/">Eng</a> &nbsp;
+				<a href="https://www.youtube.com/@NayaDigantaOnline/videos">YT</a> &nbsp;
+				<a href="https://www.facebook.com/nayadiganta">FB</a>
+			</span>
 			<!--
 				OK
 			-->

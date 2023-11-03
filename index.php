@@ -170,11 +170,11 @@
 			</span>
 		</li>
 		<li>
-			<a href="https://mzamin.com/">মানবজমিন</a> |
-			<a href="https://mzamin.com/paper.php">আজকের পত্রিকা</a> |
-			<a href="https://mzamin.com/category.php?cid=8">আন্তর্জাতিক</a> |
-			<a href="https://mzamin.com/category.php?cat=11">অর্থ-বাণিজ্য</a> |
-			<a href="https://mzamin.com/category.php?cat=15">তথ্য প্রযুক্তি</a> |
+			<a href="https://mzamin.com/">মানবজমিন</a> &nbsp;
+			<a href="https://mzamin.com/paper.php">আজকের পত্রিকা</a> &nbsp;
+			<a href="https://mzamin.com/category.php?cid=8">আন্তর্জাতিক</a> &nbsp;
+			<a href="https://mzamin.com/category.php?cat=11">অর্থ-বাণিজ্য</a> &nbsp;
+			<a href="https://mzamin.com/category.php?cat=15">তথ্য প্রযুক্তি</a> &nbsp;
 			<a href="https://www.facebook.com/dailymanabzamin/">FB</a>
 		</li>
 		<li>

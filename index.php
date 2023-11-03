@@ -127,13 +127,15 @@
 		</li>
 		<li>
 			<a href="https://www.bd-pratidin.com/">বাংলাদেশ প্রতিদিন</a> &nbsp;
-			<a href="http://www.ebdpratidin.com/">ই</a> &nbsp;
-			<a href="https://www.bd-pratidin.com/printversion">আজকের পত্রিকা</a> &nbsp;
-			<a href="https://www.bd-pratidin.com/online/todaynews">আজকের শিরোনাম</a> &nbsp;
-			<a href="https://www.bd-pratidin.com/international-news">আন্তর্জাতিক</a> &nbsp;
-			<a href="https://www.bd-pratidin.com/economy">অর্থনীতি</a> &nbsp;
-			<a href="https://www.bd-pratidin.com/tech-world">টেক ওয়ার্ল্ড</a> &nbsp;
-			<a href="https://www.facebook.com/dailybangladeshpratidin/">FB</a>
+			<span>
+				<a href="http://www.ebdpratidin.com/">ই</a> &nbsp;
+				<a href="https://www.bd-pratidin.com/printversion">আজকের পত্রিকা</a> &nbsp;
+				<a href="https://www.bd-pratidin.com/online/todaynews">আজকের শিরোনাম</a> &nbsp;
+				<a href="https://www.bd-pratidin.com/international-news">আন্তর্জাতিক</a> &nbsp;
+				<a href="https://www.bd-pratidin.com/economy">অর্থনীতি</a> &nbsp;
+				<a href="https://www.bd-pratidin.com/tech-world">টেক ওয়ার্ল্ড</a> &nbsp;
+				<a href="https://www.facebook.com/dailybangladeshpratidin/">FB</a>
+			</span>
 		</li>
 		<li>
 			<a href="https://www.banglanews24.com/">বাংলা নিউজ টোয়েন্টিফোর</a> &nbsp;

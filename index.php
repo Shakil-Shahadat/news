@@ -139,15 +139,17 @@
 		</li>
 		<li>
 			<a href="https://www.banglanews24.com/">বাংলা নিউজ টোয়েন্টিফোর</a> &nbsp;
-			<a href="https://banglanews24.com/todaynews">আজ সব খবর</a> &nbsp;
-			<a href="https://www.banglanews24.com/category/আন্তর্জাতিক/4">আন্তর্জাতিক</a> &nbsp;
-			<a href="https://banglanews24.com/category/অর্থনীতি-ব্যবসা/3">অর্থনীতি</a> &nbsp;
-			<a href="https://banglanews24.com/category/মুক্তমত/16">মতামত</a> &nbsp;
-			<a href="https://www.banglanews24.com/category/স্বাস্থ্য/19">স্বাস্থ্য</a> &nbsp;
-			<a href="https://banglanews24.com/category/পর্যটন/13">পর্যটন</a> &nbsp;
-			<a href="https://www.banglanews24.com/category/তথ্যপ্রযুক্তি/7">তথ্যপ্রযুক্তি</a> &nbsp;
-			<a href="https://www.banglanews24.com/english/">Eng</a> &nbsp;
-			<a href="https://www.facebook.com/banglanews24">FB</a>
+			<span>
+				<a href="https://banglanews24.com/todaynews">আজ সব খবর</a> &nbsp;
+				<a href="https://www.banglanews24.com/category/আন্তর্জাতিক/4">আন্তর্জাতিক</a> &nbsp;
+				<a href="https://banglanews24.com/category/অর্থনীতি-ব্যবসা/3">অর্থনীতি</a> &nbsp;
+				<a href="https://banglanews24.com/category/মুক্তমত/16">মতামত</a> &nbsp;
+				<a href="https://www.banglanews24.com/category/স্বাস্থ্য/19">স্বাস্থ্য</a> &nbsp;
+				<a href="https://banglanews24.com/category/পর্যটন/13">পর্যটন</a> &nbsp;
+				<a href="https://www.banglanews24.com/category/তথ্যপ্রযুক্তি/7">তথ্যপ্রযুক্তি</a> &nbsp;
+				<a href="https://www.banglanews24.com/english/">Eng</a> &nbsp;
+				<a href="https://www.facebook.com/banglanews24">FB</a>
+			</span>
 		</li>
 		<li>
 			<a href="https://bangla.bdnews24.com/">বিডি নিউজ টুয়েন্টিফোর</a> &nbsp;

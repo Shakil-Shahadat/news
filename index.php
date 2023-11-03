@@ -182,14 +182,16 @@
 		</li>
 		<li>
 			<a href="https://www.jaijaidinbd.com/">যায় যায় দিন</a> &nbsp;
-			<a href="https://www.ejjdin.com/">ই</a> &nbsp;
-			<a href="https://www.jaijaidinbd.com/todays-paper">আজকের পত্রিকা</a> &nbsp;
-			<a href="https://www.jaijaidinbd.com/international">আন্তর্জাতিক</a> &nbsp;
-			<a href="https://www.jaijaidinbd.com/economics">অর্থনীতি</a> &nbsp;
-			<a href="https://www.jaijaidinbd.com/information-technology">তথ্য প্রযুক্তি</a> &nbsp;
-			<a href="https://www.jaijaidinbd.com/all-news/feature/health">সুস্বাস্থ্য</a> &nbsp;
-			<a href="https://www.jaijaidinbd.com/tour">ভ্রমণ</a> &nbsp;
-			<a href="https://www.facebook.com/jaijaidinnews/">FB</a>
+			<span>
+				<a href="https://www.ejjdin.com/">ই</a> &nbsp;
+				<a href="https://www.jaijaidinbd.com/todays-paper">আজকের পত্রিকা</a> &nbsp;
+				<a href="https://www.jaijaidinbd.com/international">আন্তর্জাতিক</a> &nbsp;
+				<a href="https://www.jaijaidinbd.com/economics">অর্থনীতি</a> &nbsp;
+				<a href="https://www.jaijaidinbd.com/information-technology">তথ্য প্রযুক্তি</a> &nbsp;
+				<a href="https://www.jaijaidinbd.com/all-news/feature/health">সুস্বাস্থ্য</a> &nbsp;
+				<a href="https://www.jaijaidinbd.com/tour">ভ্রমণ</a> &nbsp;
+				<a href="https://www.facebook.com/jaijaidinnews/">FB</a>
+			</span>
 		</li>
 		<li>
 			<a href="https://www.jugantor.com/">যুগান্তর</a> |

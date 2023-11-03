@@ -153,12 +153,14 @@
 		</li>
 		<li>
 			<a href="https://bangla.bdnews24.com/">বিডি নিউজ টুয়েন্টিফোর</a> &nbsp;
-			<a href="https://bangla.bdnews24.com/lifestyle/">লাইফস্টাইল</a> &nbsp;
-			<a href="https://bangla.bdnews24.com/world/">বিশ্ব</a> &nbsp;
-			<a href="https://bangla.bdnews24.com/economy/">অর্থনীতি</a> &nbsp;
-			<a href="https://bangla.bdnews24.com/tech/">টেক</a> &nbsp;
-			<a href="https://bdnews24.com/">Eng</a> &nbsp;
-			<a href="https://www.facebook.com/bdnews24/">FB</a>
+			<span>
+				<a href="https://bangla.bdnews24.com/lifestyle/">লাইফস্টাইল</a> &nbsp;
+				<a href="https://bangla.bdnews24.com/world/">বিশ্ব</a> &nbsp;
+				<a href="https://bangla.bdnews24.com/economy/">অর্থনীতি</a> &nbsp;
+				<a href="https://bangla.bdnews24.com/tech/">টেক</a> &nbsp;
+				<a href="https://bdnews24.com/">Eng</a> &nbsp;
+				<a href="https://www.facebook.com/bdnews24/">FB</a>
+			</span>
 		</li>
 		<li>
 			<a href="https://www.bbc.com/bengali">বিবিসি বাংলা</a> &nbsp;

@@ -18,3 +18,7 @@ a:hover
 {
 	color: Magenta;
 }
+li span
+{
+	display: none;
+}

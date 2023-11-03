@@ -172,6 +172,7 @@
 		<li>
 			<a href="https://mzamin.com/">মানবজমিন</a> &nbsp;
 			<span>
+				<a href="https://mzamin.com/printversion.php">ই</a> &nbsp;
 				<a href="https://mzamin.com/paper.php">আজকের পত্রিকা</a> &nbsp;
 				<a href="https://mzamin.com/category.php?cid=8">আন্তর্জাতিক</a> &nbsp;
 				<a href="https://mzamin.com/category.php?cat=11">অর্থ-বাণিজ্য</a> &nbsp;

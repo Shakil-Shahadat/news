@@ -51,11 +51,6 @@
 	<h3>বাংলা ( গুরুত্বপূর্ন )</h3>
 	<ol>
 		<li>
-			<!--
-				OK
-				আজকের পত্রিকা পাওয়া যায়নি
-				Youtube not active
-			-->
 			<a href="https://www.kalerkantho.com/">কালের কণ্ঠ</a> &nbsp;
 			<span>
 				<a href="http://www.ekalerkantho.com/">ই</a> &nbsp;
@@ -68,6 +63,11 @@
 				<a href="https://www.kalerkantho.com/english">Eng</a> &nbsp;
 				<a href="https://www.facebook.com/kalerkantho">FB</a>
 			</span>
+			<!--
+				OK
+				আজকের পত্রিকা পাওয়া যায়নি
+				Youtube not active
+			-->
 		</li>
 		<li>
 			<!--

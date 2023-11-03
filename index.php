@@ -194,14 +194,14 @@
 			</span>
 		</li>
 		<li>
-			<a href="https://www.jugantor.com/">যুগান্তর</a> |
-			<a href="https://epaper.jugantor.com/">ই</a> |
-			<a href="https://www.jugantor.com/todays-paper">আজকের পত্রিকা</a> |
-			<a href="https://www.jugantor.com/international">আন্তর্জাতিক</a> |
-			<a href="https://www.jugantor.com/economics">অর্থনীতি</a> |
-			<a href="https://www.jugantor.com/todays-paper/it-world">আইটি বিশ্ব</a> |
-			<a href="https://www.jugantor.com/lifestyle/travel">ভ্রমণ</a> |
-			<a href="https://www.jugantor.com/todays-paper/ten-horizon">দশ দিগন্ত</a> |
+			<a href="https://www.jugantor.com/">যুগান্তর</a> &nbsp;
+			<a href="https://epaper.jugantor.com/">ই</a> &nbsp;
+			<a href="https://www.jugantor.com/todays-paper">আজকের পত্রিকা</a> &nbsp;
+			<a href="https://www.jugantor.com/international">আন্তর্জাতিক</a> &nbsp;
+			<a href="https://www.jugantor.com/economics">অর্থনীতি</a> &nbsp;
+			<a href="https://www.jugantor.com/todays-paper/it-world">আইটি বিশ্ব</a> &nbsp;
+			<a href="https://www.jugantor.com/lifestyle/travel">ভ্রমণ</a> &nbsp;
+			<a href="https://www.jugantor.com/todays-paper/ten-horizon">দশ দিগন্ত</a> &nbsp;
 			<a href="https://www.facebook.com/DainikJugantor/">FB</a>
 		</li>
 		<li>

@@ -137,12 +137,12 @@
 			<a href="https://www.facebook.com/banglanews24">FB</a>
 		</li>
 		<li>
-			<a href="https://bangla.bdnews24.com/">বিডি নিউজ টুয়েন্টিফোর</a> |
-			<a href="https://bangla.bdnews24.com/lifestyle/">লাইফস্টাইল</a> |
-			<a href="https://bangla.bdnews24.com/world/">বিশ্ব</a> |
-			<a href="https://bangla.bdnews24.com/economy/">অর্থনীতি</a> |
-			<a href="https://bangla.bdnews24.com/tech/">টেক</a> |
-			<a href="https://bdnews24.com/">Eng</a> |
+			<a href="https://bangla.bdnews24.com/">বিডি নিউজ টুয়েন্টিফোর</a> &nbsp;
+			<a href="https://bangla.bdnews24.com/lifestyle/">লাইফস্টাইল</a> &nbsp;
+			<a href="https://bangla.bdnews24.com/world/">বিশ্ব</a> &nbsp;
+			<a href="https://bangla.bdnews24.com/economy/">অর্থনীতি</a> &nbsp;
+			<a href="https://bangla.bdnews24.com/tech/">টেক</a> &nbsp;
+			<a href="https://bdnews24.com/">Eng</a> &nbsp;
 			<a href="https://www.facebook.com/bdnews24/">FB</a>
 		</li>
 		<li>

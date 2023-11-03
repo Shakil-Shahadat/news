@@ -106,12 +106,12 @@
 			<a href="https://www.facebook.com/DailyProthomAlo">FB</a>
 		</li>
 		<li>
-			<a href="https://www.banglatribune.com/">বাংলা ট্রিবিউন</a> |
-			<a href="https://www.banglatribune.com/archive">আর্কাইভ</a> |
-			<a href="https://www.banglatribune.com/foreign">আন্তর্জাতিক</a> |
-			<a href="https://www.banglatribune.com/columns">মতামত</a> |
-			<a href="https://www.banglatribune.com/business">বিজনেস</a> |
-			<a href="https://www.banglatribune.com/tech-and-gadget">টেক</a> |
+			<a href="https://www.banglatribune.com/">বাংলা ট্রিবিউন</a> &nbsp;
+			<a href="https://www.banglatribune.com/archive">আর্কাইভ</a> &nbsp;
+			<a href="https://www.banglatribune.com/foreign">আন্তর্জাতিক</a> &nbsp;
+			<a href="https://www.banglatribune.com/columns">মতামত</a> &nbsp;
+			<a href="https://www.banglatribune.com/business">বিজনেস</a> &nbsp;
+			<a href="https://www.banglatribune.com/tech-and-gadget">টেক</a> &nbsp;
 			<a href="https://www.facebook.com/BanglaTribuneOnline">FB</a>
 		</li>
 		<li>

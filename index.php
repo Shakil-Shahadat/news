@@ -115,12 +115,14 @@
 		</li>
 		<li>
 			<a href="https://www.banglatribune.com/">বাংলা ট্রিবিউন</a> &nbsp;
-			<a href="https://www.banglatribune.com/archive">আর্কাইভ</a> &nbsp;
-			<a href="https://www.banglatribune.com/foreign">আন্তর্জাতিক</a> &nbsp;
-			<a href="https://www.banglatribune.com/columns">মতামত</a> &nbsp;
-			<a href="https://www.banglatribune.com/business">বিজনেস</a> &nbsp;
-			<a href="https://www.banglatribune.com/tech-and-gadget">টেক</a> &nbsp;
-			<a href="https://www.facebook.com/BanglaTribuneOnline">FB</a>
+			<span>
+				<a href="https://www.banglatribune.com/archive">আর্কাইভ</a> &nbsp;
+				<a href="https://www.banglatribune.com/foreign">আন্তর্জাতিক</a> &nbsp;
+				<a href="https://www.banglatribune.com/columns">মতামত</a> &nbsp;
+				<a href="https://www.banglatribune.com/business">বিজনেস</a> &nbsp;
+				<a href="https://www.banglatribune.com/tech-and-gadget">টেক</a> &nbsp;
+				<a href="https://www.facebook.com/BanglaTribuneOnline">FB</a>
+			</span>
 		</li>
 		<li>
 			<a href="https://www.bd-pratidin.com/">বাংলাদেশ প্রতিদিন</a> &nbsp;

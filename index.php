@@ -207,14 +207,14 @@
 			</span>
 		</li>
 		<li>
-			<a href="https://samakal.com/">সমকাল</a> |
-			<a href="https://epaper.samakal.com/">ই</a> |
-			<a href="https://samakal.com/international">আন্তর্জাতিক</a> |
-			<a href="https://samakal.com/economics">অর্থনীতি</a> |
-			<a href="https://samakal.com/opinion">মতামত</a> |
-			<a href="https://samakal.com/technology">প্রযুক্তি</a> |
-			<a href="https://samakal.com/lifestyle">জীবনশৈলী</a> |
-			<a href="https://samakal.com/travel">ভ্রমণ</a> |
+			<a href="https://samakal.com/">সমকাল</a> &nbsp;
+			<a href="https://epaper.samakal.com/">ই</a> &nbsp;
+			<a href="https://samakal.com/international">আন্তর্জাতিক</a> &nbsp;
+			<a href="https://samakal.com/economics">অর্থনীতি</a> &nbsp;
+			<a href="https://samakal.com/opinion">মতামত</a> &nbsp;
+			<a href="https://samakal.com/technology">প্রযুক্তি</a> &nbsp;
+			<a href="https://samakal.com/lifestyle">জীবনশৈলী</a> &nbsp;
+			<a href="https://samakal.com/travel">ভ্রমণ</a> &nbsp;
 			<a href="https://www.facebook.com/TheDailySamakal">FB</a>
 		</li>
 	</ol>

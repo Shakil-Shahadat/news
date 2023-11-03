@@ -101,15 +101,17 @@
 		</li>
 		<li>
 			<a href="https://www.prothomalo.com/">প্রথম আলো</a> &nbsp;
-			<a href="https://epaper.prothomalo.com/">ই</a> &nbsp;
-			<a href="https://www.prothomalo.com/world/">আন্তর্জাতিক</a> &nbsp;
-			<a href="https://www.prothomalo.com/business">অর্থনীতি</a> &nbsp;
-			<a href="https://www.prothomalo.com/opinion">মতামত</a> &nbsp;
-			<a href="https://www.prothomalo.com/education/science-tech">প্রযুক্তি</a> &nbsp;
-			<a href="https://www.prothomalo.com/lifestyle">লাইফস্টাইল</a> &nbsp;
-			<a href="https://en.prothomalo.com/">Eng</a> &nbsp;
-			<a href="https://www.youtube.com/@ProthomAlo/videos">YT</a> &nbsp;
-			<a href="https://www.facebook.com/DailyProthomAlo">FB</a>
+			<span>
+				<a href="https://epaper.prothomalo.com/">ই</a> &nbsp;
+				<a href="https://www.prothomalo.com/world/">আন্তর্জাতিক</a> &nbsp;
+				<a href="https://www.prothomalo.com/business">অর্থনীতি</a> &nbsp;
+				<a href="https://www.prothomalo.com/opinion">মতামত</a> &nbsp;
+				<a href="https://www.prothomalo.com/education/science-tech">প্রযুক্তি</a> &nbsp;
+				<a href="https://www.prothomalo.com/lifestyle">লাইফস্টাইল</a> &nbsp;
+				<a href="https://en.prothomalo.com/">Eng</a> &nbsp;
+				<a href="https://www.youtube.com/@ProthomAlo/videos">YT</a> &nbsp;
+				<a href="https://www.facebook.com/DailyProthomAlo">FB</a>
+			</span>
 		</li>
 		<li>
 			<a href="https://www.banglatribune.com/">বাংলা ট্রিবিউন</a> &nbsp;

@@ -660,6 +660,11 @@
 	<h3>Israel</h3>
 	<ol>
 		<li>
+			<a href="https://www.haaretz.com/">
+				Haaretz
+			</a>
+		</li>
+		<li>
 			<a href="https://www.jpost.com/">
 				The Jerusalem Post
 			</a>

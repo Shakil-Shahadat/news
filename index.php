@@ -664,6 +664,11 @@
 				The Jerusalem Post
 			</a>
 		</li>
+		<li>
+			<a href="https://www.timesofisrael.com/">
+				The Times of Israel
+			</a>
+		</li>
 	</ol>
 
 

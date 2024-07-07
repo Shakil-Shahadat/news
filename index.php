@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>News</title>
 	<link rel="stylesheet" href="src/style.css">
-	<link rel="shortcut icon" href="src/favicon.ico">
+	<link rel="icon" href="src/newspaper.svg" type="image/svg+xml">
 </head>
 <body>
 

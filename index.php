@@ -705,10 +705,12 @@
 
 <script>
 
-	// Add target="_blank" to all anchor tags, v 2.0
-	for ( x of document.links ) x.setAttribute( 'target', '_blank' );
+	'use strict';
 
-	for ( e of document.querySelectorAll( 'li' ) )
+	// Add target="_blank" to all anchor tags, v 2.1
+	for ( let x of document.links ) x.setAttribute( 'target', '_blank' );
+
+	for ( let e of document.querySelectorAll( 'li' ) )
 	{
 		e.addEventListener( 'click', function() {
 			if ( this.childNodes[ 3 ].style.display === 'none' || this.childNodes[ 3 ].style.display === '' )

@@ -546,6 +546,14 @@
 			<a href="https://www.youtube.com/@nytimes/videos">YT</a>
 		</li>
 		<li>
+			<a href="https://www.wsj.com/">
+				The Wall Street Journal
+			</a> |
+			<a href="https://www.youtube.com/@wsj/videos">
+				YT
+			</a>
+		</li>
+		<li>
 			<a href="https://www.whitehouse.gov/briefing-room/speeches-remarks/">
 				The White House
 			</a>

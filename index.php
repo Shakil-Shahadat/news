@@ -374,6 +374,11 @@
 				The Daily Star
 			</a>
 		</li>
+		<li>
+			<a href="https://www.thequint.com/topic/bangladesh-fact-check">
+				The Quint
+			</a>
+		</li>
 	</ol>
 
 

@@ -340,6 +340,11 @@
 			</a>
 		</li>
 		<li>
+			<a href="https://dismislab.com/">
+				Dismislab
+			</a>
+		</li>
+		<li>
 			<a href="https://www.jachai.org/">
 				যাচাই
 			</a>

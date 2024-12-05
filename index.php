@@ -340,6 +340,11 @@
 			</a>
 		</li>
 		<li>
+			<a href="https://www.jachai.org/">
+				যাচাই
+			</a>
+		</li>
+		<li>
 			<a href="https://rumorscanner.com/">
 				Rumor Scanner
 			</a>

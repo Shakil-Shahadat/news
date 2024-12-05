@@ -339,6 +339,11 @@
 				Boom BD
 			</a>
 		</li>
+		<li>
+			<a href="https://rumorscanner.com/">
+				Rumor Scanner
+			</a>
+		</li>
 	</ol>
 
 

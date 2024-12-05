@@ -332,6 +332,16 @@
 	</ol>
 
 
+	<h3>Bangladeshi Fact Checkers</h3>
+	<ol>
+		<li>
+			<a href="https://www.boombd.com/">
+				Boom BD
+			</a>
+		</li>
+	</ol>
+
+
 	<h3>TV</h3>
 	<ol>
 		<li>

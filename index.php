@@ -345,6 +345,11 @@
 			</a>
 		</li>
 		<li>
+			<a href="https://www.dhakatribune.com/topic/fact-check">
+				Dhaka Tribune
+			</a>
+		</li>
+		<li>
 			<a href="https://dismislab.com/">
 				Dismislab
 			</a>

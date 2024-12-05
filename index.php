@@ -335,6 +335,11 @@
 	<h3>Bangladeshi Fact Checkers</h3>
 	<ol>
 		<li>
+			<a href="https://factcheck.afp.com/AFP-Bangladesh">
+				AFP
+			</a>
+		</li>
+		<li>
 			<a href="https://www.boombd.com/">
 				Boom BD
 			</a>

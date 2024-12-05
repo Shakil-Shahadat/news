@@ -364,6 +364,11 @@
 				Rumor Scanner
 			</a>
 		</li>
+		<li>
+			<a href="https://www.thedailystar.net/fact-check">
+				The Daily Star
+			</a>
+		</li>
 	</ol>
 
 

@@ -350,6 +350,11 @@
 			</a>
 		</li>
 		<li>
+			<a href="https://www.prothomalo.com/topic/ভুয়া-খবর">
+				প্রথম আলো
+			</a>
+		</li>
+		<li>
 			<a href="https://rumorscanner.com/">
 				Rumor Scanner
 			</a>

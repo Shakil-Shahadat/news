@@ -699,6 +699,11 @@
 			</a>
 		</li>
 		<li>
+			<a href="https://newspaper.irandaily.ir/">
+				Iran Daily
+			</a>
+		</li>
+		<li>
 			<a href="https://www.tasnimnews.ir/en">
 				Tasnim News Agency
 			</a>

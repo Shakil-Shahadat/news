@@ -691,6 +691,16 @@
 	</ol>
 
 
+	<h3>Iran</h3>
+	<ol>
+		<li>
+			<a href="https://www.tasnimnews.ir/en">
+				Tasnim News Agency
+			</a>
+		</li>
+	</ol>
+
+
 	<h3>Pakistan</h3>
 	<ol>
 		<li>

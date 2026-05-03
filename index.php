@@ -698,6 +698,11 @@
 				Tasnim News Agency
 			</a>
 		</li>
+		<li>
+			<a href="https://www.tehrantimes.com/">
+				Tehran Times
+			</a>
+		</li>
 	</ol>
 
 

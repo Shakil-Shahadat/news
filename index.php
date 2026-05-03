@@ -704,6 +704,11 @@
 			</a>
 		</li>
 		<li>
+			<a href="https://en.irna.ir/">
+				IRNA
+			</a>
+		</li>
+		<li>
 			<a href="https://www.tasnimnews.ir/en">
 				Tasnim News Agency
 			</a>

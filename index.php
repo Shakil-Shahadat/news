@@ -714,6 +714,11 @@
 			</a>
 		</li>
 		<li>
+			<a href="https://nournews.ir/en">
+				Nour News
+			</a>
+		</li>
+		<li>
 			<a href="https://www.tasnimnews.ir/en">
 				Tasnim News Agency
 			</a>
